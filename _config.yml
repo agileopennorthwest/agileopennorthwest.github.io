@@ -80,4 +80,4 @@ color:
 markdown: kramdown
 permalink: pretty
 
-exclude: [less, Gemfile, Gemfile.lock, makefile, README.md]
+exclude: [bin, less, Gemfile, Gemfile.lock, makefile, README.md]

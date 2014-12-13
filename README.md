@@ -3,6 +3,13 @@ agileopennorthwest.github.io
 
 Bringing agile to the northwest
 
+Helpful links
+-------------
+
+  [Markdown syntax](http://kramdown.gettalong.org/quickref.html)
+  [Jekyll]
+  
+
 Local setup
 -----------
 

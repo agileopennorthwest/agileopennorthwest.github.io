@@ -1,3 +1,5 @@
+grab-attendees:
+	bin/grab.rb
 
 generate-css:
 	lessc less/aonw.less > css/aonw.css
