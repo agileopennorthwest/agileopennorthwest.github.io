@@ -13,12 +13,15 @@ Helpful links
 Local setup
 -----------
 
+```
   bundle
   sudo npm install -g less
-
+```
 
 Run Locally
 -----------
 
+```
   make generate-css
   make serve
+```
