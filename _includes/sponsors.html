@@ -1,0 +1,6 @@
+{% for sponsor in include.sponsors %}
+  <div class="logo-and-content">
+    <a class="logo" href="{{ sponsor.url }}"><img src='/img/sponsors/{{ sponsor.img }}'></a>
+    {{ sponsor.text | markdownify }}
+  </div>
+{% endfor %}

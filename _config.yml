@@ -1,0 +1,83 @@
+title: Agile Open Northwest
+email: info@agileopennorthwest.com
+years:
+- 2015
+- 2014
+
+hosts:
+- name: Charlie Poole
+  img: charlie.jpg
+  bio: |
+    Charlie Poole has spent more than thirty years as a software developer, designer, project manager, trainer and coach. After a long career in IT for a local government agency, he has managed an independent consultancy since 1995, with clients ranging from government agencies to internet startups. Through his company, [Poole Consulting](http://pooleconsulting.com), he works with teams to help them adopt agile practices and with managers to help them understand how to work with agile teams. 
+    
+    Charlie specializes in the role of tests in agile development and regularly presents workshops on topics like **Test-Driven Development** and **Communicating with Tests**. He is the primary maintainer of the open source [NUnit Test Framework](http://nunit.com), supporting cross-platform development of managed code, and the author of the [NUnitLite](http://nunitlite.com) embedded framework. He is currently working on a number of test-integration tools, including one for the Visual Studio environment.
+
+    Charlie maintains a developer-oriented website at [charliepoole.org](http://charliepoole.org) and a blog at [nunit.com/blogs](http://nunit.com/blogs). He developed the original Agile Open Northwest website.
+- name: Diana Larsen
+  img: diana.jpg
+  bio: |
+    Diana Larsen served three years as Chair of the Agile Alliance board of directors and served terms as a board member for the group. As a partner in [FutureWorks Consulting](http://futureworksconsulting.com), Diana consults with leaders and teams to create work processes where innovation, inspiration, and imagination flourish. With more than fifteen years of experience working with technical professionals, she brings focus to the human side of organizations, teams, and projects. Diana co-authored *Agile Retrospectives: Making Good Teams Great!* with Esther Derby, *Liftoff: Launching Agile Teams and Projects* with Ainsley Nies, *Virtuosity* with Willem Larsen and writes occasional [blog posts (http://futureworksconsulting.com/blog) and articles.  
+
+    Diana discovers solutions and possibilities where others only find barriers and obstacles.
+- name: Ian Savage
+  img: ian.png
+  bio: |
+    A quality evangelist, Ian Savage is a veteran software developer, quality engineer, and manager with experience in manufacturing, financial services, construction project estimating, and software security. For more than thirty years, he has worked to improve productivity and software quality through rigorous development methods and processes and now through the pragmatic application of agile methods.
+
+    He founded/co-founded various Pacific Northwest software and quality volunteer organizations. By day he works with the Quality Initiatives Team at McAfee focusing on metrics, static analysis, and quality systems.  His present interests are software security, insourcing vs. outsourcing, and quality training. Like many others, Ian looks forward to retirement or Career 2.0.
+- name: Jeremy Lightsmith
+  img: jeremy.jpg
+  bio: |
+    Jeremy Lightsmith spends most of his time and energy building highly performant software development teams.
+
+    A seasoned agile coach, trainer, and facilitator, Jeremy excels at creating environments where teams can discover how they work best. He has a deep understanding of agile, and is constantly looking for better ways to share knowledge and collaborate. As a presenter, Jeremy favors interactive and group techniques and pulls from disciplines as diverse as Theatre Improv and Montessori.
+
+    Find Jeremy at [http://jeremylightsmith.com](http://jeremylightsmith.com) or [@lightsmith](http://twitter.com/lightsmith).
+- name: Michael J. Tardiff
+  img: michael.jpg
+  bio: |
+    I love hearing what people want to do and helping them see the ways in which they might do it. In doing  the work, we discover the work that needs to be done.
+
+    For the last decade that’s been my story: facilitator, trainer, coach, mentor, guide, storyteller, provocateur. Happiness for me is working with a team of people who are different from me; together, we serve others better than I could alone. Along the way, I've held all the software roles that begin with "p" and end with "manager." Twice I was a director at a growing startup. My early years were spent technically writing.
+
+    I write things at [FeelingAgile.com](http://feelingagile.com). Still available on iTunes is the “The Agile Coach” podcast. @mjt on Twitter is me being short. Invite me and I'll talk, wherever and whenever you like. Agile Open Northwest’s annual Open Space brings me joy. And I find peace sailing the waters north of Seattle.
+- name: Rebecca Wirfs-Brock
+  img: rebecca.jpg
+  bio: |
+    I invented the set of design practices known as Responsibility-Driven Design (RDD) and by accident started the x-DD meme. Along the way I authored two popular object design books. In my spare time I jog (even in the rain). 
+
+    In my work I help people hone their design and architecture skills, manage and reduce technical debt, refactor their code, and address architecture risks. In addition to coaching and personal mentoring, I teach and conduct workshops on Pragmatic TDD, enterprise application design, agile design skills and thinking, being agile about system qualities, and Agile Architecture.
+
+    I am program director of the Agile Alliance's Experience Reports Program and co-chair of the 2015 Agile Conference Experience Reports Track. Another interest of mine is software patterns. I am on the Board of the Hillside Group and recently I've written patterns about sustainable architecture, agile QA, and adaptive systems architectures. If you are interested in writing about your experiences or sharing your wisdom in pattern form, contact me. I can help you turn your itch for writing into the written word.
+
+    You can read my blog at [www.wirfs-brock.com/blog](http://www.wirfs-brock.com/blog>www.wirfs-brock.com/blog) and find articles and patterns on my [resources page](http://www.wirfs-brock.com/Resources.html).
+- name: Troy Frever
+  img: troy.jpg
+  bio: |
+    Troy Frever discovered XP in 2000, after two decades as a professional software developer. Since then he has been an Extreme Programmer and Coach for a number of companies in the Seattle area, including Active Voice, Cisco Systems, Quicksilver Technology, Aviarc Corporation, RealNetworks, and Smilebox. He is currently having a grand time leading the agile development team at Fanzo. When he's not writing unit tests or refactoring mercilessly, Troy enjoys backpacking and skiing with his family and playing Ultimate Frisbee. Troy is also an organizer of the Seattle Extreme Programming Users Group (SXPUG).
+
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+exclude: [less, Gemfile, Gemfile.lock, makefile, README.md]

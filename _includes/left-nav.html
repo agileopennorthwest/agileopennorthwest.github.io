@@ -1,0 +1,48 @@
+
+{% if page.name == "index.md" %}
+  <div class="page-nav">
+    <ul class="nav">
+      <li><a class="slow" href="#about_us">About Us</a></li>
+      <li><a class="slow" href="#about_open_space">About Open Space</a></li>
+      <li><a class="slow" href="#faq">FAQ</a></li>
+      <li><a class="slow" href="#contact_us">Contact Us</a></li>
+    </ul>
+  </div>
+{% else %}
+  <ul class="nav">
+    <li><a href="/#about_us">About Us</a></li>
+    <li><a href="/#about_open_space">About Open Space</a></li>
+    <li><a href="/#faq">FAQ</a></li>
+    <li><a href="/#contact_us">Contact Us</a></li>
+  </ul>
+{% endif %}
+
+<ul class="nav">
+  {% for year in site.years %}
+    {% if year == page.year %}
+      <li class="page-nav">
+        <a href="/{{ year }}">{{ year }} Conference</a>
+        <ul class="nav">
+          <li><a class="slow" href="#overview">Overview</a></li>
+          <li><a class="slow" href="#schedule">Schedule</a></li>
+          <li><a class="slow" href="#location">Location</a></li>
+          <li><a class="slow" href="#sponsors">Sponsors</a></li>
+          <li><a class="slow" href="#hosts">Hosts</a></li>
+          <li><a class="slow" href="#attendees">Attendees</a></li>
+          {% if page.notes-url %}
+            <li><a href="{{ page.notes-url }}">Session Notes</a></li>
+          {% endif %}
+        </ul>
+      </li>
+    {% else %}
+      <li><a href="/{{ year }}">{{ year }} Conference</a></li>
+    {% endif %}
+  {% endfor %}
+  <li><a href="2013">2013 Conference</a></li>
+  <li><a href="2012">2012 Conference</a></li>
+  <li><a href="2011">2011 Conference</a></li>
+  <li><a href="2010">2010 Conference</a></li>
+  <li><a href="2009">2009 Conference</a></li>
+  <li><a href="2008">2008 Conference</a></li>
+  <li><a href="2007">2007 Conference</a></li>
+</ul>

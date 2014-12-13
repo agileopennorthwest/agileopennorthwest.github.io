@@ -1,0 +1,486 @@
+
+//
+// AONW Theme
+// --------------------------------------------------
+
+// Default font family, type sizes and color variables set in variables.less.
+// Further customized features for AONW are addressed in this theme file.
+
+
+//
+// Load core variables and mixins
+// --------------------------------------------------
+
+@import "bootstrap.less";
+
+//
+// AONW Theme Palette
+// --------------------------------------------------
+
+// Use tint and shade to vary these colors as needed.
+
+// EXAMPLE
+// color: tint(@brand-primary, 30%);
+
+@brand-primary: 	#4bac00; 		// kelly green  — this color was defined in variables.less, but included here for reference
+									// used in the logo, headings, buttons, default navigation color, lots of stuff!
+@brand-secondary: 	#9fc700; 		// lime green - used in the logo, highlighted navigation items, the mobile menu toggle
+@brand-gray: 		#e3e3e3; 		// light gray - tints of this grey are used for backgrounds of navigation areas and "Conference Complete"
+@brand-text: 		#333333; 		// dark gray, used for text
+
+// Examples of tints and shades from the element collage:
+// 
+// tint(@brand-primary, 25%) 		// e.g. Unselected nested navigation items, default color for h3s
+// tint(@brand-gray, 75%)			// e.g. the background of the navigation areas
+//
+
+
+
+//
+// Body Text
+// --------------------------------------------------
+
+
+body {
+	-webkit-font-smoothing: antialiased;
+	font-size: floor((@font-size-base * .875)); // 14px
+	line-height: @line-height-base;
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-base;
+	}
+}
+
+.lead {
+	font-size: floor((@font-size-base * 1.15));
+	font-weight: 300;
+	line-height: 1.4;
+
+	@media (min-width: @screen-sm-min) {
+		font-size: (@font-size-base * 1.3125);
+	}
+}
+
+
+
+//
+// Links
+// --------------------------------------------------
+
+a {
+	border-bottom: 1px solid @link-color;
+	
+	&:hover,
+	&:focus {
+		color: @link-hover-color;
+		text-decoration: none;
+		border-bottom: 1px solid @link-hover-color;
+	}
+
+	&:focus {
+		.tab-focus();
+	}
+}
+
+//
+// Headings
+// --------------------------------------------------
+
+// Color and weights for H1-H6
+
+h1 {
+	font-weight:900;
+	color:@brand-primary;
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+	color: @brand-primary;
+
+	small,
+	.small {
+		font-weight: 300;
+		line-height: 1;
+		color: @headings-small-color;
+	}
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+
+	small,
+	.small {
+		font-size: 100%;
+	}
+}
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+
+	small,
+	.small {
+		font-size: 100%;
+	}
+}
+
+h1, .h1 { 
+	font-size: @font-size-h2;	
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-h1;
+	}
+}
+
+h2, .h2 { 
+	font-size: @font-size-h3;	
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-h2;
+	}
+}
+
+// this is a section
+h3, .h3 { 
+	font-size: @font-size-h4;
+	text-transform:uppercase;
+	font-weight:900;
+	letter-spacing:1px;
+	color: tint(@brand-primary, 25%);	
+	margin-top: 30px;
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-h3;
+	}
+}
+
+h4, .h4 { 
+	font-size: @font-size-h5;	
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-h4;
+	}
+}
+
+h5, .h5 { 
+	font-size: @font-size-h6;	
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-h5;
+	}
+}
+
+hr.section {
+	margin: 30px 0;
+}
+
+//
+// Faces
+// --------------------------------------------------
+
+// Remove underlines from buttons
+
+.faces-5 {
+	.clearfix();
+	margin:30px 0;
+	@media (min-width: @screen-sm-min) {
+		margin:45px 0;	
+	}
+	
+	img.face {
+		display:block;
+		float:left;
+		width:20%;
+		height:auto;
+	}
+}
+
+
+
+//
+// Buttons
+// --------------------------------------------------
+
+// Remove underlines from buttons
+
+a.btn {
+	text-decoration:none;
+}
+
+.btn {
+	
+	font-size: floor((@font-size-base * .875)); // 14px
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-base;
+	}
+}
+
+
+// Layout
+// ==================================================
+
+.left-nav {
+	display:none;
+	text-align: center;
+	background-color: @gray-lighter;
+	position: fixed;
+	.logo {
+		width: 60%;
+		margin: 15px 0 20px;
+	}
+
+	ul.nav {
+		margin: 0 0 20px;
+		> li {
+			> a {
+				background-color: @brand-primary;
+				color: white;
+				margin: 2px 10px;
+				padding: 7px 15px;
+				border: none;
+				&:hover {
+					background-color: @brand-secondary;
+				}
+			}
+			&.active > a {
+				background-color: @brand-secondary;
+			}
+			&.page-nav > a { // the sub nav will be highlighted, no need for this to be
+				background-color: @brand-primary;
+			}
+			> ul.nav {
+				margin-top: -2px;
+				> li {
+					> a {
+						background-color: tint(@brand-primary, 25%);
+						&:hover {
+							background-color: @brand-secondary;
+						}
+					}
+					&.active > a {
+						background-color: @brand-secondary;
+					}
+				}
+			}
+		}
+	}
+}
+
+.navbar {
+	.navbar-brand {
+		border: none;
+		img {
+			height: 35px;
+			margin-top: -5px;
+		}
+	}
+	ul.nav {
+		> li {
+			> a {
+				border: none;
+			}
+		}
+	}
+}
+
+.banner {
+	position: relative;
+	height: 300px;
+	overflow: hidden;
+	margin: 30px 0 20px;
+	img.background {
+		width: 100%;
+		min-width: 600px;
+		position: absolute;
+		margin-top: -70px;
+	}
+	.darken {
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		background-color: black;
+		opacity: 0.65;
+	}
+	.attribution {
+		position: absolute;
+		bottom: 10px;
+		right: 15px;
+		color: @brand-secondary;
+		font-size: 0.7em;
+		opacity: 0.9;
+		display: none;
+	}
+	.words {
+		color: white;
+		position: absolute;
+		bottom: 20px;
+		left: 20px;
+		a {
+			color: white;
+			&.btn-primary {
+				margin-right: 20px;
+			}
+			&:not(.btn-primary) {
+				border-bottom: 1px solid white;
+
+			}
+		}
+		.location {
+			font-size: 3em;
+			line-height: 1em;
+			font-weight: bold;
+			margin-top: 10px;
+		}
+		.date {
+			margin-bottom: 30px;
+		}
+		.big-message {
+			font-style: italic;
+			font-size: 1.8em;
+			line-height: 1em;
+		}
+	}
+	&.homepage-banner {
+
+	}
+	&.cta-banner {
+		height: 250px;
+		img.background {
+			margin-top: -150px;
+		}
+		.words {
+			top: 60px;
+		}
+		.btn-primary {
+			position: absolute;
+			bottom: 0;
+			width: 100%;
+			padding: 14px 0;
+		}
+	}
+}
+
+.content {
+}
+
+.organization-page {
+	h1 {
+	}
+}
+
+.attention {
+	color: @brand-secondary;
+}
+
+.event-page {
+	.map {
+		height: 250px;
+		position:relative;
+		.overlay {
+			background:transparent; 
+			position:absolute; 
+			width:100%;
+			height:100%;
+			top:0;
+			z-index:100;
+		}
+	}
+}
+
+.logo-and-content {
+  padding-top: 10px;
+  padding-left: 110px;
+  margin-bottom: 10px;
+  overflow: auto;
+  page-break-inside: avoid;
+  /*clear: left;*/
+  .logo img {
+	  width: 100px;
+	  float: left;
+	  margin-left: -110px;
+	}
+	h3 {
+		margin: 0 0 6px;
+	}
+}
+
+dl {
+	dt { 
+		margin-top: 20px;
+		&:first-child {
+			margin-top: 0;
+		}
+	}
+}
+.q-and-a {
+  // border-bottom: solid 1px silver;
+  margin-bottom: 30px;
+	h4.question {
+	  font-weight: bold;
+	  margin-bottom: 0;
+	  color: black;
+	}
+	.answer {
+
+	}
+}
+
+footer {
+	margin: 400px 0 50px;
+	.footer-content {
+		text-align: right;
+		color: #aaa;
+	}
+}
+
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) { 
+	.left-nav {
+		display:none;
+	}
+	.logo-and-content {
+		padding-left: 210px;
+	  .logo img {
+		  width: 200px;
+		  margin-left: -210px;
+		}
+	}
+	hr.section {
+		margin: 60px 0;
+	}
+	.banner {
+		.attribution {
+			display: block;
+		}
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) {
+	.left-nav {
+		width: 213px;
+		display:block;
+	}
+	.content {
+		margin-top: 135px;
+	}
+	.navbar {
+		display:none;
+	}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
+	.left-nav {
+		width: 263px;
+	}
+}
+
+@grid-float-breakpoint: @screen-md-min;
+

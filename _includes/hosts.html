@@ -1,0 +1,7 @@
+{% for host in include.hosts %}
+  <div class="logo-and-content">
+    <div class="logo"><img src='/img/hosts/{{ host.img }}'></div>
+    <h3>{{ host.name }}</h3>
+    {{ host.bio | markdownify }}
+  </div>
+{% endfor %}
