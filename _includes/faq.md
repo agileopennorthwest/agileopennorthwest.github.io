@@ -20,7 +20,7 @@ Are meals provided?
 : We'll have a continental breakfast and lunches each day, and dinner on Wednesday evening. For dinner on Thursday, there are a number of restaurants within easy walking distance.
 
 Are accommodations available?
-: There are a number of hotels nearby. At the time of this writing, we are working on arranging special rates at nearby hotels. See the [Location](/2015.php#location) section and follow [our tweets](http://twitter.com/aonw) for more info.
+: There are a number of hotels nearby. At the time of this writing, we are working on arranging special rates at nearby hotels. See the [Location](/2015.html#location) section and follow [our tweets](http://twitter.com/aonw) for more info.
 
 What equipment is provided for the sessions?
 : All the rooms will have easels with flip-chart tablets, markers, and some sticky notes.
