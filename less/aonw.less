@@ -1,4 +1,3 @@
-
 //
 // AONW Theme
 // --------------------------------------------------
@@ -227,7 +226,7 @@ a.btn {
 	background-color: @gray-lighter;
 	position: fixed;
 	.logo {
-		width: 60%;
+		width: 50%;
 		margin: 15px 0 20px;
 	}
 
@@ -252,6 +251,7 @@ a.btn {
 			}
 			> ul.nav {
 				margin-top: -2px;
+				margin-bottom: 0;
 				> li {
 					> a {
 						background-color: tint(@brand-primary, 25%);
@@ -262,6 +262,26 @@ a.btn {
 					&.active > a {
 						background-color: @brand-secondary;
 					}
+				}
+			}
+		}
+	}
+
+	.btn-group {
+		display: block;
+		padding: 0 10px;
+		> .btn {
+			width: 100%;
+			margin: 0 0 20px;
+			background-color: @brand-primary;
+			color: white;
+		}
+		> .dropdown-menu {
+			left: 10px;
+			> li {
+				> a {
+					width: 192px;
+					border-bottom: none;
 				}
 			}
 		}
