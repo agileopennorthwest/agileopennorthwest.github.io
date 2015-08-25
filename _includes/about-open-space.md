@@ -33,7 +33,8 @@ until the end of the conference will ensure we build on conversation after conve
 During the opening session, a host will explain the Five Principles and 
 One Law of Open Space. If you have questions, volunteers and hosts will offer answers.
 
-<div class=well>
+{::options parse_block_html="true" /}
+<div class="well">
 
 #### The Five Principles
 
