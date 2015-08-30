@@ -3,7 +3,7 @@ layout: default
 page-class: organization-page
 ---
 
-<h1 id="about_us">Agile Open Northwest <small>is your conference.</small></h1>
+<h1 id="about_us">Agile Open Northwest <small></small></h1>
 
 <div class="banner homepage-banner">
   <img src="/img/circle.jpg" class="background"/>
