@@ -61,8 +61,9 @@ Help us!
 [volunteer@agileopennorthwest.org](mailto:volunteer@agileopennorthwest.org)
 
 Other event questions?
-[aonw2015@agileopennorthwest.org](mailto:aonw2015@agileopennorthwest.org)
-    
+[info@agileopennorthwest.org](mailto:info@agileopennorthwest.org)
+<!-- [aonw2016@agileopennorthwest.org](mailto:aonw2016@agileopennorthwest.org) -->
+
 Wonder about us?
 [info@agileopennorthwest.org](mailto:info@agileopennorthwest.org)
 
