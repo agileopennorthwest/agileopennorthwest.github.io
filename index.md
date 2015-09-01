@@ -73,15 +73,17 @@ discussions around agile topics…and to meet the directors of the Agile Allianc
 Sponsor us!
 [sponsor@agileopennorthwest.org](mailto:sponsor@agileopennorthwest.org)
 
+Wonder about us?
+[info@agileopennorthwest.org](mailto:info@agileopennorthwest.org)
+
+Join our
+[email interest list](mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list%20so%20I%20can%20be%20the%20first%20to%20hear%20the%20details!)!
+
 Help us!
 [volunteer@agileopennorthwest.org](mailto:volunteer@agileopennorthwest.org)
 
-Other event questions?
-[info@agileopennorthwest.org](mailto:info@agileopennorthwest.org)
-<!-- [aonw2016@agileopennorthwest.org](mailto:aonw2016@agileopennorthwest.org) -->
-
-Wonder about us?
-[info@agileopennorthwest.org](mailto:info@agileopennorthwest.org)
+Talk to the 2016 Conference Committee!
+[agile2016@agileopennorthwest.org](mailto:agile2016@agileopennorthwest.org)
 
 Improve this!
 [webmaster@agileopennorthwest.org](mailto:webmaster@agileopennorthwest.org)
