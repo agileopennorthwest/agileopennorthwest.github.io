@@ -6375,6 +6375,9 @@ a.btn {
   display: none;
   text-align: center;
   background-color: #eeeeee;
+  position: fixed;
+  max-height: 100%;
+  overflow-y: auto;
 }
 .left-nav .logo {
   width: 50%;
