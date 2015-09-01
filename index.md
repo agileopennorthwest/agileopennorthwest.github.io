@@ -26,7 +26,7 @@ page-class: organization-page
     <div class="date">24 September 2015</div>
     <a href="https://www.eventbrite.com/e/brewing-agile-or-just-wining-about-it-registration-18171071163" class="btn btn-primary">Learn More and Register Now</a>
   </div>
-  <div class="attribution">&copy; 2014 STEVEN SMITH</div>
+  <div class="attribution">&copy; 2015 STEVEN SMITH</div>
 </div>
 
 <!--
