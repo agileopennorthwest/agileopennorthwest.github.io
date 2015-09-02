@@ -24,7 +24,7 @@ page-class: organization-page
     <div class="attention"><i>Agile Alliance + Agile Open Northwest present</i></div>
     <div class="location">Portland One-Day Open Space</div>
     <div class="date">24 September 2015</div>
-    <a href="https://www.eventbrite.com/e/brewing-agile-or-just-wining-about-it-registration-18171071163" class="btn btn-primary">Learn More and Register Now</a>
+    <a href="http://agilealliance.org/programs/brewing-agile-or-just-wining-about-it/" class="btn btn-primary">Learn More and Register Now</a>
   </div>
   <div class="attribution">&copy; 2015 STEVEN SMITH</div>
 </div>
@@ -39,7 +39,7 @@ In addition to hosting our annual February conference about agile practices and 
 <p>Together with the Agile Alliance, Agile Open Northwest presents a one-day Open Space in Portland on 24 September 2015. You’ll have a chance to
 collaborate with 125 others, using <a href="http://www.openspaceworld.com/brief_history.htm">Open Space Technology</a> to start, discover, and share
 discussions around agile topics…and to meet the directors of the Agile Alliance and of Agile Open Northwest. Register or learn more about the event
-<a href="https://www.eventbrite.com/e/brewing-agile-or-just-wining-about-it-registration-18171071163">here</a>.</p>
+<a href="http://agilealliance.org/programs/brewing-agile-or-just-wining-about-it/">here</a>.</p>
 <p>And watch this page for more information about AONW 2016 in Seattle, coming next February! Follow us on
 <a href="http://twitter.com/aonw">Twitter</a> or join our
 <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list%20so%20I%20can%20be%20the%20first%20to%20hear%20the%20details!">email interest list</a>
