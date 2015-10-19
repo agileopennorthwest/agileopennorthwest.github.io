@@ -9,41 +9,37 @@ page-class: organization-page
   <img src="/img/circle.jpg" class="background"/>
   <div class="darken"></div>
   <div class="words">
-<!-- 
-    <div class="attention">NEXT EVENT <i>Make it yours!</i></div>
-    <div class="location">Portland</div>
-    <div class="date">February 11-13, 2015</div>
+    <div class="attention">NEXT EVENT - <i>Make it yours!</i></div>
+    <div class="location">AONW 2016 - Seattle</div>
+    <div class="date">February 3-5, 2016</div>
+
+    <a href="" class="btn btn-primary">Event signup begins Monday, November 2nd at noon (PST)!</a>
+    <a href="/2016">View Event Details</a>
+
+<!--
     <div>
         <a href="https://www.eventbrite.com/e/agile-open-northwest-2015-registration-13797256967" class="btn btn-primary">Register Now</a>
-        <a href="/2015.html">View Event Details</a>
-
+        <a href="/2016">View Event Details</a>
         <a href="https://www.eventbrite.com/e/agile-open-northwest-2015-registration-13797256967" class="btn btn-primary">Join the Waitlist</a>
-        <a href=/2015.html>View Event Details</a>
+        <a href=/2016>View Event Details</a>
     </div>
- -->
-    <div class="attention"><i>Agile Alliance + Agile Open Northwest present</i></div>
-    <div class="location">Portland One-Day Open Space</div>
-    <div class="date">24 September 2015</div>
-    <a href="http://agilealliance.org/programs/brewing-agile-or-just-wining-about-it/" class="btn btn-primary">Learn More and Register Now</a>
+-->
   </div>
   <div class="attribution">&copy; 2015 STEVEN SMITH</div>
 </div>
 
-<!--
 Agile Open Northwest is an annual conference about agile practices and techniques. Using [Open Space](#about_open_space), the participants themselves make the conference they want to attend. Come prepared to share your latest ideas, challenges, hopes, experiences and experiments! Inclusive but intimate, Agile Open Northwest is limited to only 200 participants.
--->
+<!--
 In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner!
+-->
 {: class="lead"}
 
 <div>
-<p>Together with the Agile Alliance, Agile Open Northwest presents a one-day Open Space in Portland on 24 September 2015. You’ll have a chance to
-collaborate with 125 others, using <a href="http://www.openspaceworld.com/brief_history.htm">Open Space Technology</a> to start, discover, and share
-discussions around agile topics…and to meet the directors of the Agile Alliance and of Agile Open Northwest. Register or learn more about the event
-<a href="http://agilealliance.org/programs/brewing-agile-or-just-wining-about-it/">here</a>.</p>
-<p>And watch this page for more information about AONW 2016 in Seattle, coming next February! Follow us on
+<p>Agile Open Northwest is proud to present our 10th Annual AONW conference February 3-5, 2016 at the Seattle Center Exhibition Hall. Register will open
+on this page on Monday, November 2nd at noon PST. Follow us on
 <a href="http://twitter.com/aonw">Twitter</a> or join our
-<a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list%20so%20I%20can%20be%20the%20first%20to%20hear%20the%20details!">email interest list</a>
- to be the first to hear the details.
+<a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
+ to stay up to date with all the latest info. You can also read more details about the <a href="/2016">2016 conference</a>.
  </p>
 </div>
 
