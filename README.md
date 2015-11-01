@@ -22,6 +22,7 @@ Run Locally
 -----------
 
 ```
-  make generate-css
   make serve
 ```
+
+  The website runs locally at http://0.0.0.0:4000/
