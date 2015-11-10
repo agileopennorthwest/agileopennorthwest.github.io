@@ -13,14 +13,16 @@ page-class: organization-page
     <div class="location">AONW 2016 - Seattle</div>
     <div class="date">February 3-5, 2016</div>
 
-    <a href="" class="btn btn-primary">Event signup begins Tuesday, November 10th at noon (PST)!</a>
-    <a href="/2016">View Event Details</a>
+    <div>
+      <a href="https://www.eventbrite.com/e/agile-open-northwest-2016-registration-19487755401?ref=elink" target="_blank" class="btn btn-primary">Register Now</a>
+      <a href="/2016">View Event Details</a>
+    </div>
 
 <!--
     <div>
-        <a href="https://www.eventbrite.com/e/agile-open-northwest-2015-registration-13797256967" class="btn btn-primary">Register Now</a>
+        <a href="https://www.eventbrite.com/e/agile-open-northwest-2016-registration-19487755401?ref=elink" target="_blank" style="color:#118000" class="btn btn-primary">Register Now</a>
         <a href="/2016">View Event Details</a>
-        <a href="https://www.eventbrite.com/e/agile-open-northwest-2015-registration-13797256967" class="btn btn-primary">Join the Waitlist</a>
+        <a href="https://www.eventbrite.com/e/agile-open-northwest-2016-registration-19487755401?ref=elink" target="_blank" class="btn btn-primary">Join the Waitlist</a>
         <a href=/2016>View Event Details</a>
     </div>
 -->
