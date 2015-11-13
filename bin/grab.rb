@@ -7,7 +7,8 @@ APP_KEY = ENV["AONW_EVENTBRITE_APP_KEY"]
 USER_KEY = ENV["AONW_EVENTBRITE_USER_KEY"]
 
 # year, eid = 2014, 9367507467
-year, eid = 2015, 13797256967
+# year, eid = 2015, 13797256967
+year, eid = 2016, 19487755401
 
 class EventBrite
   include HTTParty
