@@ -47,7 +47,7 @@ hosts:
 - name: Troy Frever
   img: troy.jpg
   bio: |
-    Troy Frever discovered XP in 2000, after two decades as a professional software developer. Since then he has been an Extreme Programmer and Coach for a number of companies in the Seattle area, including Active Voice, Cisco Systems, Quicksilver Technology, Aviarc Corporation, RealNetworks, and Smilebox. He is currently having a grand time leading the agile development team at Fanzo. When he's not writing unit tests or refactoring mercilessly, Troy enjoys backpacking and skiing with his family and playing Ultimate Frisbee. Troy is also a former organizer of the Seattle Extreme Programming Users Group (SXPUG) and co-founder of Seattle's Beyond Agile user group.
+    Troy Frever discovered XP in 2000, after two decades as a professional software developer. Since then he has been an Extreme Programmer and Coach for a number of companies in the Seattle area, including Active Voice, Cisco Systems, Quicksilver Technology, Aviarc Corporation, RealNetworks, Smilebox, and Fanzo. He is currently having a grand time leading the agile development team at Ripl. When he's not writing unit tests or refactoring mercilessly, Troy enjoys backpacking and skiing with his family and playing Ultimate Frisbee. Troy is also a former organizer of the Seattle Extreme Programming Users Group (SXPUG) and co-founder of Seattle's Beyond Agile user group.
 
 
 # Color settings (hex-codes without the leading hash-tag)

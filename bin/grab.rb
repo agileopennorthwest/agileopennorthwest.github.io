@@ -83,7 +83,6 @@ File.open(output_file, "w") do |f|
 
   f << "</tbody>\n"
   f << "</table>\n"
-  f << "<p style='margin-left: 3.5em'><i>H</i> = Host, <i>S</i> = Sponsor, <i>V</i> = Volunteer"
 end
 
 # csv_file = File.expand_path(File.dirname(__FILE__) + "/../public/#{year}/attendees.csv")

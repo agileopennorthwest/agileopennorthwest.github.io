@@ -18,7 +18,7 @@ Local setup
   sudo npm install -g less
 ```
 
-Run Locally
+Run locally
 -----------
 
 ```
@@ -26,3 +26,10 @@ Run Locally
 ```
 
   The website runs locally at http://0.0.0.0:4000/
+
+Update attendees list
+---------------------
+
+```
+make grab-attendees
+```
