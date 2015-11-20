@@ -62,6 +62,10 @@ def city(a)
   a["answers"]["In which city and state do you spend most of your time?"]
 end
 
+def isAttendeeNotDonor?(a)
+  a.has_key?("answers") && a["answers"].size > 0
+end
+
 e = EventBrite.new
 attendees = e.event_list_attendees(eid)
 
@@ -78,8 +82,10 @@ File.open(output_file, "w") do |f|
            [company(a), role(a)].compact.join("<br/>"),
            city(a)]
 
-    f << "<tr valign='top'>" << row.map{|v| "<td>#{v}</td>"}.join << "</tr>\n"
-  end  
+    if isAttendeeNotDonor?(a)
+      f << "<tr valign='top'>" << row.map{|v| "<td>#{v}</td>"}.join << "</tr>\n"
+    end
+  end
 
   f << "</tbody>\n"
   f << "</table>\n"
