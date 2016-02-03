@@ -14,7 +14,8 @@ page-class: organization-page
     <div class="date">February 3-5, 2016</div>
 
     <div>
-      <a href="https://www.eventbrite.com/e/agile-open-northwest-2016-registration-19487755401?ref=elink" target="_blank" class="btn btn-primary">Join the Waitlist</a>
+      <a href="" class="btn btn-primary">Registration closed - hope to see you there!</a>
+<!--      <a href="https://www.eventbrite.com/e/agile-open-northwest-2016-registration-19487755401?ref=elink" target="_blank" class="btn btn-primary">Join the Waitlist</a> -->
       <a href="/2016">View Event Details</a>
     </div>
 
@@ -32,8 +33,7 @@ focus on agile topics, use Open Space, and occur in the Northwest United States.
 {: class="lead"}
 
 <div>
-<p>Agile Open Northwest is proud to present our 10th Annual AONW conference on February 3-5, 2016 at the Seattle Center Exhibition Hall, and we are sold our already!
-You can still join the waitlist - just click the green button above. We are dedicated to a low-cost conference, and are pleased to hold the rate
+<p>Agile Open Northwest is proud to present our 10th Annual AONW conference on February 3-5, 2016 at the Seattle Center Exhibition Hall, and we are sold our already! We are dedicated to a low-cost conference, and are pleased to hold the rate
 to only $250 for the 3-day event. Follow us on
 <a href="http://twitter.com/aonw">Twitter</a> or join our
 <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
