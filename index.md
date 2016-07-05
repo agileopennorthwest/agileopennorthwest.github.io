@@ -1,6 +1,8 @@
 ---
 layout: default
 page-class: organization-page
+last-notes-url: http://aonw2016.blogspot.com/
+
 ---
 
 <h1 id="about_us">Agile Open Northwest <small></small></h1>
@@ -10,35 +12,41 @@ page-class: organization-page
   <div class="darken"></div>
   <div class="words">
     <div class="attention">NEXT EVENT - <i>Make it yours!</i></div>
-    <div class="location">AONW 2016 - Seattle</div>
-    <div class="date">February 3-5, 2016</div>
+    <div class="location">Open Agile Management Conference</div>
+    <div class="date">September, Seattle (exact date coming soon)</div>
 
     <div>
-      <a href="" class="btn btn-primary">Registration closed - hope to see you there!</a>
+<!--      <a href="" class="btn btn-primary">Registration closed - hope to see you there!</a> -->
 <!--      <a href="https://www.eventbrite.com/e/agile-open-northwest-2016-registration-19487755401?ref=elink" target="_blank" class="btn btn-primary">Join the Waitlist</a> -->
-      <a href="/2016">View Event Details</a>
+<!--      <a href="/2016">View Event Details</a> -->
     </div>
 
   </div>
   <div class="attribution">&copy; 2015 STEVEN SMITH</div>
 </div>
-
+<!--
 Agile Open Northwest is an annual conference about agile practices and techniques. Using [Open Space](#about_open_space), the participants themselves
 make the conference they want to attend. Come prepared to share your latest ideas, challenges, hopes, experiences and experiments! Inclusive but intimate,
 Agile Open Northwest is limited to only 200 participants.
-<!--
-In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that
-focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner!
 -->
+In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that
+focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! More information coming soon...
 {: class="lead"}
 
 <div>
+<p>Thank you to all who attended AONW 2016 in Seattle. You can find session notes <a href="{{ page.last-notes-url }}">here</a>. Our next annual conference will be AONW 2017 in Portland, OR, to be held in February 2017. Follow us on
+<a href="http://twitter.com/aonw">Twitter</a> or join our
+<a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
+ to stay up to date with all the latest info.
+ </p>
+<!--
 <p>Agile Open Northwest is proud to present our 10th Annual AONW conference on February 3-5, 2016 at the Seattle Center Exhibition Hall, and we are sold our already! We are dedicated to a low-cost conference, and are pleased to hold the rate
 to only $250 for the 3-day event. Follow us on
 <a href="http://twitter.com/aonw">Twitter</a> or join our
 <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
  to stay up to date with all the latest info. You can also read more details about the <a href="/2016">2016 conference</a>.
  </p>
+--> 
 </div>
 
 <div class="faces-5">
