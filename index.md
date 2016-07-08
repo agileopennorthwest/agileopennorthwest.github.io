@@ -11,28 +11,35 @@ last-notes-url: http://aonw2016.blogspot.com/
   <img src="/img/circle.jpg" class="background"/>
   <div class="darken"></div>
   <div class="words">
-    <div class="attention">NEXT EVENT - <i>Make it yours!</i></div>
-    <div class="location">Open Agile Management Conference</div>
-    <div class="date">September, Seattle (exact date coming soon)</div>
-
-    <div>
-<!--      <a href="" class="btn btn-primary">Registration closed - hope to see you there!</a> -->
-<!--      <a href="https://www.eventbrite.com/e/agile-open-northwest-2016-registration-19487755401?ref=elink" target="_blank" class="btn btn-primary">Join the Waitlist</a> -->
-<!--      <a href="/2016">View Event Details</a> -->
-    </div>
-
+    <div class="attention big-message">NEXT EVENT - <i>Make it yours!</i></div>
+    <div class="event-title">Open Agile Management Conference</div>
+    <div class="spacer"> </div>
+    <div class="date">Friday September 16th, 2016</div>
+    <div>AXIS Pioneer Square (formerly the Elliott Bay Bookstore)</div>
+    <div>308 1st Ave South, Seattle WA 98104</div>
+    <div class="spacer"> </div>
+    <p align="center"><a href="" class="btn btn-primary">Registration will open soon!</a></p>
   </div>
   <div class="attribution">&copy; 2015 STEVEN SMITH</div>
 </div>
+
+<!--      <a href="" class="btn btn-primary">Registration closed - hope to see you there!</a> -->
+<!--      <a href="https://www.eventbrite.com/e/agile-open-northwest-2016-registration-19487755401?ref=elink" target="_blank" class="btn btn-primary">Join the Waitlist</a> -->
+<!--      <a href="/2016">View Event Details</a> -->
+
 <!--
 Agile Open Northwest is an annual conference about agile practices and techniques. Using [Open Space](#about_open_space), the participants themselves
 make the conference they want to attend. Come prepared to share your latest ideas, challenges, hopes, experiences and experiments! Inclusive but intimate,
 Agile Open Northwest is limited to only 200 participants.
 -->
+
 In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that
-focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! More information coming soon...
+focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! The Open Agile Management Conference will 
+be a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square in Seattle. It is a full day event, running from 8:30 am to 7:00 pm, and includes 
+continental breakfast and lunch. The cost is $250.00. Registration will be open soon!
 {: class="lead"}
 
+---
 <div>
 <p>Thank you to all who attended AONW 2016 in Seattle. You can find session notes <a href="{{ page.last-notes-url }}">here</a>. Our next annual conference will be AONW 2017 in Portland, OR, to be held in February 2017. Follow us on
 <a href="http://twitter.com/aonw">Twitter</a> or join our

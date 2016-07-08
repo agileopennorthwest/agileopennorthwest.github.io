@@ -6485,6 +6485,12 @@ a.btn {
 .banner .words a:not(.btn-primary) {
   border-bottom: 1px solid white;
 }
+.banner .words .event-title {
+  font-size: 3em;
+  line-height: 1em;
+  font-weight: bold;
+  margin-top: 10px;
+}
 .banner .words .location {
   font-size: 3em;
   line-height: 1em;
@@ -6493,6 +6499,9 @@ a.btn {
 }
 .banner .words .date {
   margin-bottom: 30px;
+}
+.banner .words .spacer {
+  margin-top: 10px;
 }
 .banner .words .big-message {
   font-style: italic;
