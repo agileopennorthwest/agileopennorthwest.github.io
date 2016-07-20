@@ -41,7 +41,7 @@ continental breakfast and lunch. The cost is $250.00. Registration will be open 
 
 ---
 <div>
-<p>Thank you to all who attended AONW 2016 in Seattle. You can find session notes <a href="{{ page.last-notes-url }}">here</a>. Our next annual conference will be AONW 2017 in Portland, OR, to be held in February 2017. Follow us on
+<p>Thank you to all who attended AONW 2016 in Seattle. You can still view <a href="{{ page.last-notes-url }}">session notes</a> or other details about the <a href="/2016">2016 conference</a>. Our next annual conference will be AONW 2017 in Portland, OR, to be held in February 2017. Follow us on
 <a href="http://twitter.com/aonw">Twitter</a> or join our
 <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
  to stay up to date with all the latest info.
