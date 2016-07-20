@@ -34,6 +34,9 @@
       </ul>
     </li>
   {% else %}
+    {% if site.next-other-event-url %}
+      <li><a href="{{ site.next-other-event-url }}">{{ site.next-other-event-name }}</a></li>
+    {% endif %}
     <li><a href="/{{ site.years[0] }}">{{ site.years[0] }} Conference</a></li>
     <li><a href="/{{ site.years[1] }}">{{ site.years[1] }} Conference</a></li>
   {% endif %}

@@ -1,0 +1,256 @@
+---
+layout: default
+page-class: event-page
+year: 2016
+theme: "Open Agile Management Conference"
+city: Seattle
+date: Friday September 16th, 2016
+notes-url: http://aonw2016.blogspot.com/
+event-name: "Open Agile Management"
+
+event-hosts:
+- name: Tom Perry
+  img: tom.jpg
+  bio: |
+    Tom Perry has been working in software development for over 20 years. He has been fortunate enough to work on teams at startup companies as well as within large corporations in the Fortune 100 and the State and Federal Government. His background includes testing, development, project/program management, coaching /mentoring and training. As part of his involvement in the greater agile community, he led the Seattle chapter of the APLN.
+
+    Currently, Tom works at Visa as a Senior Director and Agile Coach. He is very actively engaged in the agile community, speaking at local and international conferences and sharing his passion for building insanely great teams.
+
+    Check out his blog for more information about his writing, presentations and current projects http://agiletools.wordpress.com or follow him on twitter [@tlperry](http://twitter.com/tlperry).
+
+sponsors:
+---
+
+<!--<div class="attention">JOIN US FOR</div>-->
+<div class="attention">We Hope You Enjoyed</div>
+
+<h1>Agile Open Northwest</h1>
+<div class="lead">{{ page.city }}, {{ page.date }}</div>
+
+<div id="overview" class="banner cta-banner">
+  <img src="/img/circle.jpg" class="background"/>
+  <div class="darken"></div>
+  <div class="words">
+    <div class="big-message">{{ page.theme }}</div>
+    <div class="spacer"> </div>
+    <div class="date">Friday September 16th, 2016</div>
+    <div>AXIS Pioneer Square (formerly the Elliott Bay Bookstore)</div>
+    <div>308 1st Ave South, Seattle WA 98104</div>
+    <div class="spacer"> </div>
+    <p align="center"><a href="" class="btn btn-primary">Registration will open soon!</a></p>
+</div>
+
+  <a href="" class="btn btn-primary">We hope you enjoyed our AONW 2016 annual conference. See you next year!</a>
+
+<!--
+  <a href="https://www.eventbrite.com/e/agile-open-northwest-2015-registration-13797256967" class="btn btn-primary">Event signup not yet open, but stay tuned!</a>
+  <a href="https://www.eventbrite.com/e/agile-open-northwest-2016-registration-19487755401?ref=elink" target="_blank" class="btn btn-primary">Join the Waitlist</a>
+-->
+
+</div>
+
+<!--Agile Open Northwest, a non-profit alliance of agile practitioners in the US Pacific Northwest region, presents our tenth annual [Open Space](/#about_open_space) conference about agile practices and techniques!
+{: class="lead"}
+-->
+
+Thank you to all who attended AONW 2016 in Seattle. You can find session notes [here]({{ page.notes-url }}). Our next annual conference will be AONW 2017 in Portland, OR, to be held in February 2017. Follow us on
+<a href="http://twitter.com/aonw">Twitter</a> or join our
+<a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
+ to stay up to date with all the latest info.
+
+Also, keep an eye on our [home page](/) for information about other upcoming events.
+
+<!--<p>Watch this space for more information about AONW 2016 in Seattle, coming this February, and we are already sold out! You can still join the waitlist - just click the green button above.
+Space is limited to the first 200 registrants, but we do occasionally get cancellations. At only $250 for the three day event, AONW remains one of the best conference values to be found. Follow us on
+<a href="http://twitter.com/aonw">Twitter</a> or join our
+<a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
+ to stay up to date with all the latest info.
+</p>
+-->
+
+<hr class="section"/>
+
+More about the 2016 Conference, held in February in Seattle:
+------------------------------------------------------------
+
+Overview
+--------
+
+Due to attendee demand, this year's conference is a full three days long!
+
+### WHERE IS IT?
+
+[Seattle Center Exhibition Hall](http://seattlecenter.com/locations/detail.aspx?id=27) - Seattle, WA
+
+Coming from out of town? We've arranged special rates with several local hotels. Check out the [Location](#location) section for more information.
+
+### WHEN IS IT?
+
+February 3-5, 2016.
+
+### WHO SHOULD ATTEND?
+
+YOU and other experienced, collaborative, committed agile practitioners. Registration will be limited, so watch this space or join our <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list%20so%20I%20can%20be%20notified%20when%20when%20registration%20opens!">email interest list</a>
+ to be notified when registration opens.
+
+### HOW MUCH DOES IT COST?
+
+The registration fee is $250 for the three-day event, and includes a continental breakfast and lunch each day.
+
+### WHEN CAN I REGISTER?
+
+Registration will open on this page on Tuesday, November 10th, 2015 at noon PST. In order to keep the conference small, space will be limited
+to the first 200 registrants.
+Contact us at [info@agileopennorthwest.org](mailto:info@agileopennorthwest.org) to get added to our email list for a reminder.
+
+### CAN I BE A SPONSOR?
+
+Yes you can! Agile Open Northwest depends on sponsorship support to keep registration costs affordable. See our Sponsors section, or contact us at
+[sponsor@agileopennorthwest.org](mailto:sponsor@agileopennorthwest.org) for more information.
+
+
+<hr class="section"/>
+<h2 id="schedule">Conference Schedule</h2>
+Here is a tentative schedule for the 2016 conference, based on last year's event. There will likely be some changes as the conference grows nearer.
+
+### WEDNESDAY,  3 FEBRUARY
+
+|8:00 a.m. - 8:30 a.m.   | Registration & Continental Breakfast |
+|8:30 a.m. - 9:45 a.m.   | Welcome, Introductions, & Opening |
+|10:00 a.m. - 11:00 a.m. | Session W-1 |
+|11:10 a.m. - 12:10 p.m. | Session W-2 |
+|12:20 p.m. - 1:00 p.m.  | Lunch  |
+|1:00 p.m. - 2:00 p.m.   | Session W-3 |
+|2:10 p.m. - 3:10 p.m.   |  Session W-4 (afternoon beverages available) |
+|3:20 p.m. - 4:20 p.m.   | Session W-5 |
+|4:30 p.m. - 5:00 p.m.   | Evening News & Daily Reports Plenary |
+|7:30 p.m. - 9:00 p.m.   | Night Owl Session W-6 (venue closes by 10:00 p.m.) |
+{: class="table table-striped table-condensed"}
+
+### THURSDAY, 4 FEBRUARY
+
+|8:00 a.m. - 9:00 a.m.   | Early Bird Session T-7 (Continental breakfast available) |
+|9:15 a.m. - 9:45 a.m.   | Morning Announcements Plenary - New Sessions |
+|10:00 a.m. - 11:00 a.m. | Session T-8 |
+|11:10 a.m. - 12:10 p.m. | Session T-9 |
+|12:20 p.m. - 1:00 p.m.  |  Lunch |
+|1:00 p.m. - 2:00 p.m.   | Session T-10 |
+|2:10 p.m. - 3:10 p.m.  |  Session T-11 (afternoon beverages available) |
+|3:20 p.m. - 4:20 p.m.   | Session T-12 |
+|4:30 p.m. - 5:00 p.m.   | Evening News & Daily Reports Plenary |
+|7:30 p.m. - 9:00 p.m.   | Night Owl Session T-13 (venue closes by 10:00 p.m.) |
+{: class="table table-striped table-condensed"}
+
+### FRIDAY, 5 FEBRUARY
+
+|8:00 a.m. - 9:00 a.m.   | Early Bird Session F-14 (Continental breakfast available) |
+|9:15 a.m. - 9:45 a.m.   | Morning Announcements Plenary - New Sessions |
+|10:00 a.m. - 11:00 a.m. | Session F-15 |
+|11:10 a.m. - 12:10 p.m. | Session F-16 |
+|12:20 p.m. - 1:00 p.m.  | Lunch |
+|1:00 p.m. - 1:15 p.m.   | Integration & Moving Forward Plenary Session |
+|1:15 p.m. - 2:15 p.m.   | Conference Closing Plenary Session |
+|2:15 p.m. - 3:00 p.m.   | Cleanup |
+|3:00 p.m. - 4:30 p.m.   | AONW {{ page.year }} retrospective for all interested |
+{: class="table table-striped table-condensed"}
+
+
+<hr class="section"/>
+<h2 id="location">Location &amp; Map</h2>
+
+Created for the 1962 Seattle World's Fair, Seattle Center calls itself "the nation's best gathering place." It certainly has a lot to offer, including cultural venues, sports arenas, entertainment options, the Science Center, and a Food Court, in addition to beautiful grounds. It is easily accessible by car, bus or riding the monorail from downtown Seattle.
+
+This year we'll be in the Seattle Center Exhibition Hall, located at 299 Mercer Street and directly across from the convenient Seattle Center parking facility. There are numerous spots nearby for impromptu gatherings, including a McMenamin's pub for you Oregonians. For your dinner choices, a number of restaurants are within walking distance.
+
+### Hotel Information
+
+For out-of-towners, we are currently have arrangements with the local hotels below for special rates.
+
+#### Pensione Nichols
+
+![](/img/hotels/pensione_nichols.jpg)
+
+1923 First avenue \\
+Seattle WA 98101 \\
+Phone: 206.441.7125 \\
+E-Mail: info@pensionenichols.com \\
+[http://pensionenichols.com/](http://pensionenichols.com/)
+
+Our conference rate is $89 per night; parking is extra.  Put “Agile Conference” in the notes when you register online or tell them you are registering
+for the Agile conference if you reserve by phone.
+
+This is a small bed and breakfast hotel, but for this rate they are not serving breakfast. We are providing breakfast at the conference.
+
+This B&B hotel has a large, glorious English country shabby chic common room on the third floor with a glorious view of the sound where you can take
+your bottle of wine and talk all night. The hotel backs up against the Public Market. We negotiated a no-breakfast rate since we are providing
+breakfast at the conference, and the hotel doesn’t start serving until 8:00 AM. Be prepared for a couple of long flights of stairs and no elevators,
+but the location and the view are worth it. The hotel is nine blocks from the Seattle Center and three blocks from the monorail.
+
+----
+
+####Four Points by Sheraton
+
+![](/img/hotels/fourpoints.jpg){: width="50%"}
+
+Downtown Seattle Center\\
+601 Roy Street, Seattle, Washington 98109, United States\\
+[http://fourpoints.com](http://FOURPOINTS.COM)
+
+Please [click here](http://www.starwoodhotels.com/fourpoints/rates/rate.html?propertyId=3638&rtnId=&arrivalDate=2016-02-01&departureDate=2016-02-05&iataNumber=&rp=SN%3A508613%2C%2C%2C&numberOfRooms=1&numberOfAdults=1&numberOfChildren=0)
+for direct link to discount availability. Or call 866.716.8133 and ask for set number 508613.
+You can also take a look at the [Four Points flyer](/img/hotels/FP flyer.pdf) for Seattle Center Events.
+
+----
+
+#### Mediterranean Inn
+
+425 Queen Anne Ave N.\\
+Seattle, WA 98109\\
+Phone: 206-428-4700 or 866-525-4700\\
+[http://www.Mediterranean-Inn.com](http://www.Mediterranean-Inn.com)
+
+Please [click here](https://bookings.ihotelier.com/Mediterranean-Inn/bookings.jsp?hotelId=13357#)
+ for booking. Use code AONW for 10% off the Best Available Rate. This discount is available until January 22nd 2016.
+
+This is a recently updated and refreshed older hotel right next to Seattle Center.
+
+----
+There are numerous other hotels available close to the Center and in the nearby Seattle downtown area. Watch this page for news of additional special rates for
+Agile Open Northwest attendees.
+
+### Directions & Maps
+
+The **Seattle Center Exhibition Hall** is in the same building as the Pacific Northwest Ballet, on the lower level:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2689.0935592319906!2d-122.35368338436886!3d47.624312579185826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3847566150997c6f!2sSeattle+Center+Exhibition+Hall!5e0!3m2!1sen!2sus!4v1447176982264" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+- [Map of Seattle Center (PDF)](http://www.seattlecenter.com/downloads/sc_map_color_gates.pdf)
+- [Hotels near Seattle Center](http://www.booking.com/landmark/us/seattle-center.en.html?aid=314920;label=seattle-center-wVj24QaWCoE0IFEvqdQ0xwS1922791798;ws=&gclid=CK3lnaaXmp4CFR4HagodRS_7mA)
+- [Restaurants near Seattle Center](http://www.urbanspoon.com/ps/1/5126/Seattle/Landmarks/Seattle-Center.html)
+- [Downtown Hotels near Westlake Center (Monorail)](http://www.seattle-downtown.com/westlake-center/#hotels)
+
+<?php perch_content("Map") ?>
+
+
+<hr class="section"/>
+<h2 id="sponsors">Sponsors</h2>
+
+{% include sponsors.html sponsors=page.sponsors %}
+{% include sponsor-info.html %}
+
+<hr class="section"/>
+<h2 id="hosts">Hosts</h2>
+
+{{ page.event-name }} is brought to you by our conference chair and the Agile Open Northwest Board of Directors
+{: class="lead"}
+
+### {{ page.event-name }} Conference Chair
+{% include hosts.html hosts=page.event-hosts %}
+
+### AONW Board of Directors
+{% include hosts.html hosts=site.hosts %}
+
+<hr class="section"/>
+<h2 id="attendees">Attendees</h2>
+<!-- After we open registration for the conference later this fall, watch this space to see who has signed up! -->
+
+{% include attendees/2016.html %}
