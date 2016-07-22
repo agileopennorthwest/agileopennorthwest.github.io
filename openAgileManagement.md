@@ -27,10 +27,10 @@ sponsors:
   <div class="darken"></div>
   <div class="words">
     <div class="attention big-message">NEXT EVENT - <i>Make it yours!</i></div>
-    <div class="event-title">{{ page.event-name }}</div>
+    <div class="event-title">Open Agile Management</div>
     <div class="spacer"> </div>
     <div class="date">Friday September 16th, 2016</div>
-    <div>AXIS Pioneer Square (formerly the Elliott Bay Bookstore)</div>
+    <div>AXIS Pioneer Square</div>
     <div>308 1st Ave South, Seattle WA 98104</div>
     <div class="spacer"> </div>
     <p align="center"><a href="https://www.eventbrite.com/e/open-agile-management-conference-2016-registration-26674081897" class="btn btn-primary">Register Today!</a></p>
