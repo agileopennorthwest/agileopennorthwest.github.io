@@ -1,12 +1,11 @@
 ---
 layout: default
 page-class: event-page
-theme: "Open Agile Management Conference"
 city: Seattle, WA
 date: Friday September 16th, 2016
 notes-url: http://aonw2016.blogspot.com/
 event-url: /openAgileManagement
-event-name: "Open Agile Management"
+event-name: "Open Agile Management 2016"
 
 event-hosts:
 - name: Tom Perry
@@ -28,7 +27,7 @@ sponsors:
   <div class="darken"></div>
   <div class="words">
     <div class="attention big-message">NEXT EVENT - <i>Make it yours!</i></div>
-    <div class="event-title">Open Agile Management Conference</div>
+    <div class="event-title">{{ page.event-name }}</div>
     <div class="spacer"> </div>
     <div class="date">Friday September 16th, 2016</div>
     <div>AXIS Pioneer Square (formerly the Elliott Bay Bookstore)</div>
@@ -40,7 +39,7 @@ sponsors:
 </div>
 
 In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that
-focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! The Open Agile Management Conference will 
+focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! {{ page.event-name }} will 
 be a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square in Seattle. It is a full day event, running from 8:30 am to 7:00 pm, and includes 
 continental breakfast and lunch. The cost is $250.00. Register today using the green button above!
 {: class="lead"}
@@ -66,8 +65,8 @@ Space is limited to the first 200 registrants, but we do occasionally get cancel
 
 <hr class="section"/>
 
-More about the {{ page.event-name }} 1-day conference, to be held in September 16th in Seattle:
------------------------------------------------------------------------------------------------
+More about {{ page.event-name }}, to be held on September 16th in Seattle:
+--------------------------------------------------------------------------
 
 Overview
 --------
