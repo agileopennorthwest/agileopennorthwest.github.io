@@ -1,11 +1,11 @@
 ---
 layout: default
 page-class: event-page
-year: 2016
 theme: "Open Agile Management Conference"
-city: Seattle
+city: Seattle, WA
 date: Friday September 16th, 2016
 notes-url: http://aonw2016.blogspot.com/
+event-url: /openAgileManagement
 event-name: "Open Agile Management"
 
 event-hosts:
@@ -21,44 +21,41 @@ event-hosts:
 sponsors:
 ---
 
-<!--<div class="attention">JOIN US FOR</div>-->
-<div class="attention">We Hope You Enjoyed</div>
+<div class="attention">Agile Open Northwest Presents</div>
 
-<h1>Agile Open Northwest</h1>
-<div class="lead">{{ page.city }}, {{ page.date }}</div>
-
-<div id="overview" class="banner cta-banner">
+<div class="banner homepage-banner">
   <img src="/img/circle.jpg" class="background"/>
   <div class="darken"></div>
   <div class="words">
-    <div class="big-message">{{ page.theme }}</div>
+    <div class="attention big-message">NEXT EVENT - <i>Make it yours!</i></div>
+    <div class="event-title">Open Agile Management Conference</div>
     <div class="spacer"> </div>
     <div class="date">Friday September 16th, 2016</div>
     <div>AXIS Pioneer Square (formerly the Elliott Bay Bookstore)</div>
     <div>308 1st Ave South, Seattle WA 98104</div>
     <div class="spacer"> </div>
-    <p align="center"><a href="" class="btn btn-primary">Registration will open soon!</a></p>
+    <!--<p align="center"><a href="https://www.eventbrite.com/e/open-agile-management-conference-2016-registration-26674081897" class="btn btn-primary">Register Today!</a></p>-->
+    <p align="center"><a href="" class="btn btn-primary">Registration Opening Soon!</a></p>
+  </div>
+  <div class="attribution">&copy; 2015 STEVEN SMITH</div>
 </div>
 
-  <a href="" class="btn btn-primary">We hope you enjoyed our AONW 2016 annual conference. See you next year!</a>
-
-<!--
-  <a href="https://www.eventbrite.com/e/agile-open-northwest-2015-registration-13797256967" class="btn btn-primary">Event signup not yet open, but stay tuned!</a>
-  <a href="https://www.eventbrite.com/e/agile-open-northwest-2016-registration-19487755401?ref=elink" target="_blank" class="btn btn-primary">Join the Waitlist</a>
--->
-
-</div>
+In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that
+focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! The Open Agile Management Conference will 
+be a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square in Seattle. It is a full day event, running from 8:30 am to 7:00 pm, and includes 
+continental breakfast and lunch. The cost is $250.00. Register today using the green button above!
+{: class="lead"}
 
 <!--Agile Open Northwest, a non-profit alliance of agile practitioners in the US Pacific Northwest region, presents our tenth annual [Open Space](/#about_open_space) conference about agile practices and techniques!
 {: class="lead"}
 -->
 
-Thank you to all who attended AONW 2016 in Seattle. You can find session notes [here]({{ page.notes-url }}). Our next annual conference will be AONW 2017 in Portland, OR, to be held in February 2017. Follow us on
-<a href="http://twitter.com/aonw">Twitter</a> or join our
-<a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
- to stay up to date with all the latest info.
+<!--Thank you to all who attended AONW 2016 in Seattle. You can find session notes [here]({{ page.notes-url }}). Our next annual conference will be AONW 2017 in Portland, OR, to be held in February 2017. Follow us on-->
+<!--<a href="http://twitter.com/aonw">Twitter</a> or join our-->
+<!--<a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>-->
+<!--to stay up to date with all the latest info.-->
 
-Also, keep an eye on our [home page](/) for information about other upcoming events.
+<!--Also, keep an eye on our [home page](/) for information about other upcoming events.-->
 
 <!--<p>Watch this space for more information about AONW 2016 in Seattle, coming this February, and we are already sold out! You can still join the waitlist - just click the green button above.
 Space is limited to the first 200 registrants, but we do occasionally get cancellations. At only $250 for the three day event, AONW remains one of the best conference values to be found. Follow us on
@@ -70,13 +67,11 @@ Space is limited to the first 200 registrants, but we do occasionally get cancel
 
 <hr class="section"/>
 
-More about the 2016 Conference, held in February in Seattle:
-------------------------------------------------------------
+More about the {{ page.event-name }} 1-day conference, to be held in September 16th in Seattle:
+-----------------------------------------------------------------------------------------------
 
 Overview
 --------
-
-Due to attendee demand, this year's conference is a full three days long!
 
 ### WHERE IS IT?
 
@@ -86,7 +81,7 @@ Coming from out of town? We've arranged special rates with several local hotels.
 
 ### WHEN IS IT?
 
-February 3-5, 2016.
+September 16, 2016.
 
 ### WHO SHOULD ATTEND?
 
@@ -95,7 +90,7 @@ YOU and other experienced, collaborative, committed agile practitioners. Registr
 
 ### HOW MUCH DOES IT COST?
 
-The registration fee is $250 for the three-day event, and includes a continental breakfast and lunch each day.
+The registration fee is $250 for the one-day event, and includes a continental breakfast and lunch.
 
 ### WHEN CAN I REGISTER?
 
@@ -250,7 +245,8 @@ The **Seattle Center Exhibition Hall** is in the same building as the Pacific No
 {% include hosts.html hosts=site.hosts %}
 
 <hr class="section"/>
-<h2 id="attendees">Attendees</h2>
+<h2 id="attendees">
+<!--Attendees-->
+</h2>
 <!-- After we open registration for the conference later this fall, watch this space to see who has signed up! -->
-
-{% include attendees/2016.html %}
+<!--{% include attendees/2016.html %}-->

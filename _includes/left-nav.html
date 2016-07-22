@@ -18,9 +18,15 @@
 {% endif %}
 
 <ul class="nav">
-  {% if page.year %}
+  {% if page.page-class == "event-page" %}
     <li class="page-nav">
-      <a href="/{{ page.year }}">{{ page.year }} Conference</a>
+      {% if page.year %}
+        <a href="/{{ page.year }}">{{ page.year }} Conference</a>
+      {% else if page.event-url %}
+        <a href="{{ page.event-url }}">{{ page.event-name }}</a>
+      {% else %}
+        <a href="#">Registration</a>
+      {% endif %}
       <ul class="nav">
         <li><a class="slow" href="#overview">Overview</a></li>
         <li><a class="slow" href="#schedule">Schedule</a></li>
