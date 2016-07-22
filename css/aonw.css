@@ -6468,7 +6468,7 @@ a.btn {
   color: #9fc700;
   font-size: 0.7em;
   opacity: 0.9;
-  display: none;
+  display: block;
 }
 .banner .words {
   color: white;
