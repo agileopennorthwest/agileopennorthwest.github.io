@@ -26,7 +26,7 @@ sponsors:
   <img src="/img/circle.jpg" class="background"/>
   <div class="darken"></div>
   <div class="words">
-    <div class="attention big-message">NEXT EVENT - <i>Make it yours!</i></div>
+    <div class="attention big-message">NEXT EVENT</div>
     <div class="event-title">Open Agile Management</div>
     <div class="spacer"> </div>
     <div class="date">Friday September 16th, 2016</div>
