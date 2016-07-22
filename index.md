@@ -18,8 +18,7 @@ last-notes-url: http://aonw2016.blogspot.com/
     <div>AXIS Pioneer Square (formerly the Elliott Bay Bookstore)</div>
     <div>308 1st Ave South, Seattle WA 98104</div>
     <div class="spacer"> </div>
-    <!--<p align="center"><a href="https://www.eventbrite.com/e/open-agile-management-conference-2016-registration-26674081897" class="btn btn-primary">Register Today!</a></p>-->
-    <p align="center"><a href="" class="btn btn-primary">Registration Opening Soon!</a></p>
+    <p align="center"><a href="https://www.eventbrite.com/e/open-agile-management-conference-2016-registration-26674081897" class="btn btn-primary">Register Today!</a></p>
   </div>
   <div class="attribution">&copy; 2015 STEVEN SMITH</div>
 </div>
