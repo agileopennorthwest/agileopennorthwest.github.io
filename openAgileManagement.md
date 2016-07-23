@@ -125,15 +125,13 @@ Here is a tentative schedule for the 2016 conference, based on last year's event
 <hr class="section"/>
 <h2 id="location">Location &amp; Map</h2>
 
-Created for the 1962 Seattle World's Fair, Seattle Center calls itself "the nation's best gathering place." It certainly has a lot to offer, including cultural venues, sports arenas, entertainment options, the Science Center, and a Food Court, in addition to beautiful grounds. It is easily accessible by car, bus or riding the monorail from downtown Seattle.
+The conference will be held at **AXIS Pioneer square**, the former location of the Elliott Bay Bookstore. Housed in the historic 1889 Globe building, it is a space rich with character. It has been re-designed as a flexible meeting space, ideal for open space style gatherings.
 
-This year we'll be in the Seattle Center Exhibition Hall, located at 299 Mercer Street and directly across from the convenient Seattle Center parking facility. There are numerous spots nearby for impromptu gatherings, including a McMenamin's pub for you Oregonians. For your dinner choices, a number of restaurants are within walking distance.
+### Maps
 
-### Directions & Maps
+**AXIS Pioneer Square** is the heart of the Pioneer Square district in downtown Seattle:
 
-The **Seattle Center Exhibition Hall** is in the same building as the Pacific Northwest Ballet, on the lower level:
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2689.0935592319906!2d-122.35368338436886!3d47.624312579185826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3847566150997c6f!2sSeattle+Center+Exhibition+Hall!5e0!3m2!1sen!2sus!4v1447176982264" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!3m1!4b1!4m5!3m4!1s0x54906aa526e40e67:0x10f2bc2e24aa936!8m2!3d47.5998898!4d-122.3340431" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <?php perch_content("Map") ?>
 
