@@ -44,24 +44,28 @@ be a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Squa
 continental breakfast and lunch. The cost is $250.00. Register today using the green button above!
 {: class="lead"}
 
-<!--Agile Open Northwest, a non-profit alliance of agile practitioners in the US Pacific Northwest region, presents our tenth annual [Open Space](/#about_open_space) conference about agile practices and techniques!
-{: class="lead"}
--->
+### About the Event
+The Open Agile Management Conference is for managers, executives and leaders who use agile practices and techniques to help organizations find a better way of working. This conference provides a place to have conversations with leading agile practitioners, share stories, and explore new ideas.
 
-<!--Thank you to all who attended AONW 2016 in Seattle. You can find session notes [here]({{ page.notes-url }}). Our next annual conference will be AONW 2017 in Portland, OR, to be held in February 2017. Follow us on-->
-<!--<a href="http://twitter.com/aonw">Twitter</a> or join our-->
-<!--<a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>-->
-<!--to stay up to date with all the latest info.-->
+### About Our Format
+We will be experimenting with a conference format derived from Harrison Owen’s Open Space Technology. In addition to the normal things you would expect to see at an “un-conference” you will also find some new ideas that we are incorporating into the experience:
 
-<!--Also, keep an eye on our [home page](/) for information about other upcoming events.-->
+A keynote speaker: We are very lucky to have Ray Arell, Founder and Principal Coach at nuCognitive, LLC giving our keynote. Ray will be sharing his experience as a manager coming to terms with what it means to be agile.
 
-<!--<p>Watch this space for more information about AONW 2016 in Seattle, coming this February, and we are already sold out! You can still join the waitlist - just click the green button above.
-Space is limited to the first 200 registrants, but we do occasionally get cancellations. At only $250 for the three day event, AONW remains one of the best conference values to be found. Follow us on
-<a href="http://twitter.com/aonw">Twitter</a> or join our
-<a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
- to stay up to date with all the latest info.
-</p>
--->
+We will also be incorporating frequent reconvening to share ideas: In order to maximize the spread of ideas through the group, we will come together after each session to briefly share what we have learned.
+
+### Creating a Session
+After the keynote, we will invite those who want to convene a session to come forward and present it. It’s a simple process. You don’t need to prepare papers, slides, or flip-charts. You will simply step forward and briefly describe the session you propose. You’ll include just enough information to let people decide whether to attend…and no more. Generally, you need less than thirty seconds.
+
+After presenting a summary of your proposed session, you’ll select a time and place and post a notice on our Marketplace wall. As each person does the same…Voila! The agenda is born.
+
+We ask that everyone attending our conference show up for the keynote and opening. It’s important. You’ll listen to the presentations and take note of those you would like to attend. As you listen, you may be inspired to present a session yourself. There are no deadlines or time limits: simply step up and describe your idea for a session.
+
+### Attending Sessions
+At the end of the presentation, you will browse the notices on the Marketplace and sign up to attend any sessions that interest you. Signing up for a session is optional. You may attend any session you like and even move between sessions.
+
+### Adding Sessions
+You may add a session to the schedule at any time during the event by posting information about it in an available slot in the agenda. We’ll have periodic announcements of any new or rescheduled sessions, but it’s a good idea for all participants to keep an eye out for schedule changes as well.
 
 <hr class="section"/>
 
