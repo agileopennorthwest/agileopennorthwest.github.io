@@ -111,15 +111,22 @@ Here is a tentative schedule for the 2016 conference, based on last year's event
 ### FRIDAY,  16 SEPTEMBER
 
 |8:00 a.m. - 8:30 a.m.   | Registration & Continental Breakfast |
-|8:30 a.m. - 9:45 a.m.   | Welcome, Introductions, & Opening |
-|10:00 a.m. - 11:00 a.m. | Session W-1 |
-|11:10 a.m. - 12:10 p.m. | Session W-2 |
-|12:20 p.m. - 1:00 p.m.  | Lunch  |
-|1:00 p.m. - 2:00 p.m.   | Session W-3 |
-|2:10 p.m. - 3:10 p.m.   |  Session W-4 (afternoon beverages available) |
-|3:20 p.m. - 4:20 p.m.   | Session W-5 |
-|4:30 p.m. - 5:00 p.m.   | Evening News & Daily Reports Plenary |
-|7:30 p.m. - 9:00 p.m.   | Night Owl Session W-6 (venue closes by 10:00 p.m.) |
+|8:30 a.m. - 9:00 a.m.   | Introductions & Opening |
+|9:00 a.m. - 9:45 a.m.   | Keynote |
+|9:45 a.m. - 10:15 a.m.  | MarketPlace |
+|10:15 a.m. - 11:05 a.m. | Session 1 |
+|11:15 a.m. - 11:30 a.m. | Reconvene & Update Marketplace |
+|11:30 a.m. - 12:20 p.m. | Session 2 |
+|12:20 p.m. - 12:35 p.m. | Reconvene & Update Marketplace |
+|12:35 p.m. - 1:30 p.m.  | Lunch  |
+|1:30 p.m. - 2:20 p.m.   | Session 3 |
+|2:20 p.m. - 2:35 p.m. | Reconvene & Update Marketplace |
+|2:35 p.m. - 3:25 p.m.   |  Session 4 (afternoon beverages available) |
+|3:25 p.m. - 3:40 p.m. | Reconvene & Update Marketplace |
+|3:40 p.m. - 4:30 p.m.   | Session 5 |
+|4:30 p.m. - 5:00 p.m.   | Integration & Moving Forward |
+|5:00 p.m. - 5:30 p.m.   | Closing |
+|5:30 p.m. - 7:00 p.m.   | Drinks & Appetizers |
 {: class="table table-striped table-condensed"}
 
 <hr class="section"/>
