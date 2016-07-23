@@ -11,9 +11,9 @@ event-hosts:
 - name: Tom Perry
   img: tom.jpg
   bio: |
-    Tom Perry has been working in software development for over 20 years. He has been fortunate enough to work on teams at startup companies as well as within large corporations in the Fortune 100 and the State and Federal Government. His background includes testing, development, project/program management, coaching /mentoring and training. As part of his involvement in the greater agile community, he led the Seattle chapter of the APLN.
+    Tom has been working in software development for over 20 years. He has worked on teams at startup companies, large corporations in the Fortune 100 and the State and Federal Government. His background includes testing, development, project/program management, agile coaching/mentoring and training. As part of his involvement in the greater agile community, he led the Seattle eastside chapter of the APLN.
 
-    Currently, Tom works at Visa as a Senior Director and Agile Coach. He is very actively engaged in the agile community, speaking at local and international conferences and sharing his passion for building insanely great teams.
+    Tom speaks at a wide variety of software development conferences all over the world on a wide variety of Agile and Lean topics. He is also the author of the recently published "Little Book of Impediments."
 
     Check out his blog for more information about his writing, presentations and current projects http://agiletools.wordpress.com or follow him on twitter [@tlperry](http://twitter.com/tlperry).
 
@@ -39,8 +39,8 @@ sponsors:
 </div>
 
 In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that
-focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! {{ page.event-name }} will 
-be a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square in Seattle. It is a full day event, running from 8:30 am to 7:00 pm, and includes 
+focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! {{ page.event-name }} will
+be a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square in Seattle. It is a full day event, running from 8:30 am to 7:00 pm, and includes
 continental breakfast and lunch. The cost is $250.00. Register today using the green button above!
 {: class="lead"}
 
