@@ -77,7 +77,7 @@ Overview
 
 ### WHERE IS IT?
 
-[Seattle Center Exhibition Hall](http://seattlecenter.com/locations/detail.aspx?id=27) - Seattle, WA
+[AXIS Pioneer Square](http://http://axispioneersquare.com) - Seattle, WA
 
 ### WHEN IS IT?
 
@@ -90,12 +90,12 @@ YOU and other experienced, collaborative, committed agile practitioners. Registr
 
 ### HOW MUCH DOES IT COST?
 
-The registration fee is $250 for the one-day event, and includes a continental breakfast and lunch.
+The registration fee is $250 for the one day event, and includes a continental breakfast and lunch.
 
 ### WHEN CAN I REGISTER?
 
-Registration will open on this page on Tuesday, November 10th, 2015 at noon PST. In order to keep the conference small, space will be limited
-to the first 200 registrants.
+Registration will open on this page on Sunday, July 24th, 2016. In order to keep the conference small, space will be limited
+to the first 100 registrants.
 Contact us at [info@agileopennorthwest.org](mailto:info@agileopennorthwest.org) to get added to our email list for a reminder.
 
 ### CAN I BE A SPONSOR?
@@ -106,7 +106,7 @@ Yes you can! Agile Open Northwest depends on sponsorship support to keep registr
 
 <hr class="section"/>
 <h2 id="schedule">Conference Schedule</h2>
-Here is a tentative schedule for the 2016 conference, based on last year's event. There will likely be some changes as the conference grows nearer.
+Here is a tentative schedule for the 2016 conference. There will likely be some changes as the conference grows nearer.
 
 ### FRIDAY,  16 SEPTEMBER
 
@@ -136,9 +136,9 @@ The conference will be held at **AXIS Pioneer square**, the former location of t
 
 ### Maps
 
-**AXIS Pioneer Square** is the heart of the Pioneer Square district in downtown Seattle:
+**AXIS Pioneer Square** is in the heart of the Pioneer Square district in downtown Seattle:
 
-<iframe src="https://www.google.com/maps/embed?pb=!3m1!4b1!4m5!3m4!1s0x54906aa526e40e67:0x10f2bc2e24aa936!8m2!3d47.5998898!4d-122.3340431" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/place/AXIS+Pioneer+Square/@47.5998898,-122.3362371,17z/data=!3m1!4b1!4m5!3m4!1s0x54906aa526e40e67:0x10f2bc2e24aa936!8m2!3d47.5998898!4d-122.3340431" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <?php perch_content("Map") ?>
 
