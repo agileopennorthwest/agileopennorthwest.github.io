@@ -135,12 +135,8 @@ Here is a tentative schedule for the 2016 conference. There will likely be some 
 The conference will be held at **AXIS Pioneer square**, the former location of the Elliott Bay Bookstore. Housed in the historic 1889 Globe building, it is a space rich with character. It has been re-designed as a flexible meeting space, ideal for open space style gatherings.
 
 <!-- ### Maps -->
-
 <!-- **AXIS Pioneer Square** is in the heart of the Pioneer Square district in downtown Seattle: -->
-
-<!-- <iframe src="https://www.google.com/maps/place/AXIS+Pioneer+Square/@47.5998898,-122.3362371,17z/data=!3m1!4b1!4m5!3m4!1s0x54906aa526e40e67:0x10f2bc2e24aa936!8m2!3d47.5998898!4d-122.3340431" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe> -->
-
-<!-- <?php perch_content("Map") ?> -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2690.3496872776404!2d-122.33623178434502!3d47.59988977918425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906aa526e40e67%3A0x10f2bc2e24aa936!2sAXIS+Pioneer+Square!5e0!3m2!1sen!2sus!4v1469461859199" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <hr class="section"/>
 <h2 id="sponsors">Sponsors</h2>
