@@ -34,9 +34,9 @@ Agile Open Northwest is limited to only 200 participants.
 -->
 
 In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that
-focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! {{ site.next-other-event-name }} will 
+focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! {{ site.next-other-event-fullname }} will 
 be a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square in Seattle. It is a full day event, running from 8:30 am to 7:00 pm, and includes 
-continental breakfast and lunch. The cost is $250.00. Registration will be open soon!
+continental breakfast and lunch. The cost is $250.00. You can find more details about the event [here]({{ site.next-other-event-url }}). Register today using the green button above!
 {: class="lead"}
 
 ---

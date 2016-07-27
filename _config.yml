@@ -1,7 +1,8 @@
 title: Agile Open Northwest
 email: info@agileopennorthwest.com
-#next-other-event-url: /openAgileManagement
-next-other-event-name: "Open Agile Management 2016"
+next-other-event-url: /openAgileManagement
+next-other-event-fullname: "Open Agile Management"
+next-other-event-shortname: "Open Agile Management"
 years:
 - 2016
 - 2015

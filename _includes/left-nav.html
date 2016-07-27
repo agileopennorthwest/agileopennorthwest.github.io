@@ -2,7 +2,7 @@
 {% if page.name == "index.md" %}
   <div class="page-nav">
     <ul class="nav">
-      <li><a class="slow" href="#">About Us</a></li>
+      <li><a class="slow" href="#">AONW Home</a></li>
       <li><a class="slow" href="#about_open_space">About Open Space</a></li>
       <li><a class="slow" href="#faq">FAQ</a></li>
       <li><a class="slow" href="#contact_us">Contact Us</a></li>
@@ -10,7 +10,7 @@
   </div>
 {% else %}
   <ul class="nav">
-    <li><a href="/#">About Us</a></li>
+    <li><a href="/#">AONW Home</a></li>
     <li><a href="/#about_open_space">About Open Space</a></li>
     <li><a href="/#faq">FAQ</a></li>
     <li><a href="/#contact_us">Contact Us</a></li>
@@ -41,7 +41,7 @@
     </li>
   {% else %}
     {% if site.next-other-event-url %}
-      <li><a href="{{ site.next-other-event-url }}">{{ site.next-other-event-name }}</a></li>
+      <li><a href="{{ site.next-other-event-url }}">{{ site.next-other-event-shortname }}</a></li>
     {% endif %}
     <li><a href="/{{ site.years[0] }}">{{ site.years[0] }} Conference</a></li>
     <li><a href="/{{ site.years[1] }}">{{ site.years[1] }} Conference</a></li>
