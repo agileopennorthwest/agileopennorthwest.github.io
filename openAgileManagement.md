@@ -77,7 +77,7 @@ Overview
 
 ### WHERE IS IT?
 
-[AXIS Pioneer Square](http://http://axispioneersquare.com) - Seattle, WA
+[AXIS Pioneer Square](http://axispioneersquare.com) - Seattle, WA
 
 ### WHEN IS IT?
 
