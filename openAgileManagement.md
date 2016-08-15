@@ -18,6 +18,11 @@ event-hosts:
     Check out his blog for more information about his writing, presentations and current projects http://agiletools.wordpress.com or follow him on twitter [@tlperry](http://twitter.com/tlperry).
 
 sponsors:
+  - url: http://www.solutionsiq.com/
+    img: solutions-iq.png
+    text: |
+       [SolutionsIQ](http://solutionsiq.com) is the world’s leading provider of Agile transformation and innovation solutions for business and technology. Its management consultants, coaches, software developers and trainers are uniquely positioned to help organizations embrace Agile software engineering methods, workflow management frameworks, scaling patterns and Agile management/leadership. The SolutionsIQ transformation approach creates an integrated program that combines Agile values and principles with proven organizational change management methods to produce far-reaching changes at the individual, team and organization levels necessary for success.
+
 ---
 
 <div class="attention">Agile Open Northwest Presents</div>
