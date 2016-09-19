@@ -3,7 +3,7 @@ layout: default
 page-class: event-page
 city: Seattle, WA
 date: Friday September 16th, 2016
-notes-url: http://aonw2016.blogspot.com/
+notes-url: http://oamconf2016.blogspot.com/
 event-url: /openAgileManagement
 event-name: "Open Agile Management 2016"
 
@@ -31,22 +31,21 @@ sponsors:
   <img src="/img/circle.jpg" class="background"/>
   <div class="darken"></div>
   <div class="words">
-    <div class="attention big-message">NEXT EVENT</div>
+    <div class="attention big-message">EVENT FINISHED!</div>
     <div class="event-title">Open Agile Management</div>
     <div class="spacer"> </div>
     <div class="date">Friday September 16th, 2016</div>
     <div>AXIS Pioneer Square</div>
     <div>308 1st Ave South, Seattle WA 98104</div>
     <div class="spacer"> </div>
-    <p align="center"><a href="https://www.eventbrite.com/e/open-agile-management-conference-2016-registration-26674081897" class="btn btn-primary">Register Today!</a></p>
+    <p align="center"><a href="{{ page.notes-url }}" class="btn btn-primary">Read the Session Notes</a></p>
   </div>
   <div class="attribution">&copy; 2015 STEVEN SMITH</div>
 </div>
 
 In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that
-focus on agile topics, use Open Space, and occur in the Northwest United States. One of these is just around the corner! {{ page.event-name }} will
-be a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square in Seattle. It is a full day event, running from 8:30 am to 7:00 pm, and includes
-continental breakfast and lunch. The cost is $250. Register today using the green button above!
+focus on agile topics, use Open Space, and occur in the Northwest United States. One of these has just completed! {{ page.event-name }} was
+a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square in Seattle. A fabulous time was had by all. You can read the session notes [here]({{ page.notes-url }}).
 {: class="lead"}
 
 ### About the Event
