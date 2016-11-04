@@ -8,7 +8,8 @@ USER_KEY = ENV["AONW_EVENTBRITE_USER_KEY"]
 
 # year, eid = 2014, 9367507467
 # year, eid = 2015, 13797256967
-year, eid = 2016, 19487755401
+# year, eid = 2016, 19487755401
+year, eid = 2017, 29127205255
 
 class EventBrite
   include HTTParty
@@ -73,14 +74,13 @@ output_file = File.expand_path(File.dirname(__FILE__) + "/../_includes/attendees
 puts "writing to #{output_file}"
 File.open(output_file, "w") do |f|
   f << "<table class='table table-striped table-condensed'>\n"
-  f << "<thead><tr><th></th><th>Name / Twitter</th><th>Company / Role</th><th>City</th></tr></thead>\n"
+  f << "<thead><tr><th></th><th>Name</th><th>Company / Role</th></tr></thead>\n"
   f << "<tbody>\n"
 
   attendees.each do |a|
     row = [attendee_type(a),
            [name(a), twitter_handle(a)].compact.join("<br/>"),
-           [company(a), role(a)].compact.join("<br/>"),
-           city(a)]
+           [company(a), role(a)].compact.join("<br/>")]
 
     if isAttendeeNotDonor?(a)
       f << "<tr valign='top'>" << row.map{|v| "<td>#{v}</td>"}.join << "</tr>\n"
@@ -89,6 +89,27 @@ File.open(output_file, "w") do |f|
 
   f << "</tbody>\n"
   f << "</table>\n"
+# output_file = File.expand_path(File.dirname(__FILE__) + "/../_includes/attendees/#{year}.html")
+# puts "writing to #{output_file}"
+# File.open(output_file, "w") do |f|
+#   f << "<table class='table table-striped table-condensed'>\n"
+#   f << "<thead><tr><th></th><th>Name / Twitter</th><th>Company / Role</th><th>City</th></tr></thead>\n"
+#   f << "<tbody>\n"
+#
+#   attendees.each do |a|
+#     row = [attendee_type(a),
+#            [name(a), twitter_handle(a)].compact.join("<br/>"),
+#            [company(a), role(a)].compact.join("<br/>"),
+#            city(a)]
+#
+#     if isAttendeeNotDonor?(a)
+#       f << "<tr valign='top'>" << row.map{|v| "<td>#{v}</td>"}.join << "</tr>\n"
+#     end
+#   end
+#
+#   f << "</tbody>\n"
+#   f << "</table>\n"
+
 end
 
 # csv_file = File.expand_path(File.dirname(__FILE__) + "/../public/#{year}/attendees.csv")
