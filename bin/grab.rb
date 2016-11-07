@@ -35,9 +35,9 @@ end
 
 def attendee_type(a)
   case a["discount"]
-    when "agilechangesworlds" then "<a href='#sponsor' title='Sponsor'>S</a>"
+    when "ThankYou1000TimesOver" then "<a href='#sponsor' title='Sponsor'>S</a>"
     when "EveryOrgNeedsStalwarts" then "<a href='#hosts' title='Host'>H</a>"
-    when "ithinkican" then "<span title='Volunteer'>V</span>"
+    when "DevotedVolunteersMakeAONWHappen" then "<span title='Volunteer'>V</span>"
     end
 end
 def name(a)
