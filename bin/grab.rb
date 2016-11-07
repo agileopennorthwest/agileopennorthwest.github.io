@@ -74,7 +74,7 @@ output_file = File.expand_path(File.dirname(__FILE__) + "/../_includes/attendees
 puts "writing to #{output_file}"
 File.open(output_file, "w") do |f|
   f << "<table class='table table-striped table-condensed'>\n"
-  f << "<thead><tr><th></th><th>Name / Twitter handle</th><th>Company / Role</th><th>City></th></tr></thead>\n"
+  f << "<thead><tr><th></th><th>Name / Twitter handle</th><th>Company / Role</th><th>City</th></tr></thead>\n"
   f << "<tbody>\n"
 
   attendees.each do |a|
