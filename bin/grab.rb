@@ -36,7 +36,7 @@ end
 def attendee_type(a)
   case a["discount"]
     when "agilechangesworlds" then "<a href='#sponsor' title='Sponsor'>S</a>"
-    when "NotWithoutUs" then "<a href='#hosts' title='Host'>H</a>"
+    when "EveryOrgNeedsStalwarts" then "<a href='#hosts' title='Host'>H</a>"
     when "ithinkican" then "<span title='Volunteer'>V</span>"
     end
 end
@@ -44,7 +44,7 @@ def name(a)
   [a["first_name"], a["last_name"]].compact.join("&nbsp;")
 end
 def twitter_handle(a)
-  handle = a["answers"]["Your Twitter handle, if you'd like to share it:"]
+  handle = a["answers"]["Your Twitter handle, if you'd like to share it (please include the @):"]
   return nil if handle == nil
   
   handle = handle[1..-1] if handle.start_with? "@"
@@ -60,7 +60,7 @@ def role(a)
   "<i>#{res}</i>"
 end
 def city(a)
-  a["answers"]["In which city and state do you spend most of your time?"]
+  a["answers"]['In which city/state/province do you spend most of your time?']
 end
 
 def isAttendeeNotDonor?(a)
@@ -74,13 +74,14 @@ output_file = File.expand_path(File.dirname(__FILE__) + "/../_includes/attendees
 puts "writing to #{output_file}"
 File.open(output_file, "w") do |f|
   f << "<table class='table table-striped table-condensed'>\n"
-  f << "<thead><tr><th></th><th>Name</th><th>Company / Role</th></tr></thead>\n"
+  f << "<thead><tr><th></th><th>Name / Twitter handle</th><th>Company / Role</th><th>City></th></tr></thead>\n"
   f << "<tbody>\n"
 
   attendees.each do |a|
     row = [attendee_type(a),
            [name(a), twitter_handle(a)].compact.join("<br/>"),
-           [company(a), role(a)].compact.join("<br/>")]
+           [company(a), role(a)].compact.join("<br/>"),
+           city(a)]
 
     if isAttendeeNotDonor?(a)
       f << "<tr valign='top'>" << row.map{|v| "<td>#{v}</td>"}.join << "</tr>\n"
