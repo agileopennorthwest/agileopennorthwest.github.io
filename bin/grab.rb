@@ -48,7 +48,7 @@ def twitter_handle(a)
   return nil if handle == nil
   
   handle = handle[1..-1] if handle.start_with? "@"
-  "<a href='http://twitter.com/#{handle}'>@#{handle}</a>"
+  "<a target='_blank' href='http://twitter.com/#{handle}'>@#{handle}</a>"
 end
 def company(a)
   res = a["company"]
@@ -72,9 +72,11 @@ attendees = e.event_list_attendees(eid)
 
 output_file = File.expand_path(File.dirname(__FILE__) + "/../_includes/attendees/#{year}.html")
 puts "writing to #{output_file}"
+
 File.open(output_file, "w") do |f|
   f << "<table class='table table-striped table-condensed'>\n"
   f << "<thead><tr><th></th><th>Name / Twitter handle</th><th>Company / Role</th><th>City</th></tr></thead>\n"
+  f << "<thead><tr><th></th><th>(H=Host, V=Volunteer, S=Sponsor)</th></tr></thead>\n"
   f << "<tbody>\n"
 
   attendees.each do |a|
