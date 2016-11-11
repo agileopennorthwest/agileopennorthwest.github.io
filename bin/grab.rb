@@ -93,7 +93,7 @@ File.open(output_file, "w") do |f|
   f << "</tbody>\n"
   f << "</table>\n"
   f << "<p>* H=Host, V=Volunteer, S=Sponsor</p>\n"
-  
+
 # output_file = File.expand_path(File.dirname(__FILE__) + "/../_includes/attendees/#{year}.html")
 # puts "writing to #{output_file}"
 # File.open(output_file, "w") do |f|
