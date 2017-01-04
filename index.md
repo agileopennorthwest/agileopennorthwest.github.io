@@ -21,8 +21,8 @@ date: February 8-10, 2017
     <div>101 N Weidler, Portland, OR 97227</div>
     <div class="spacer"> </div>
 <!--<a href="" target="_blank" class="btn btn-primary">Registration opens November 4, 2016 at 11:04 a.m. Pacific</a> -->
-<!--<a href="https://aonw2017.eventbrite.com" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a>-->
-<a href="https://aonw2017.eventbrite.com" target="_blank" class="btn btn-primary">Register Now!</a>
+<!--<a href="https://aonw2017.eventbrite.com" target="_blank" class="btn btn-primary">Register Now!</a>-->
+<a href="https://aonw2017.eventbrite.com" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a>
 <a href="/{{ site.years[0] }}">View Event Details</a> 
     <!--<p align="center"><a href="/{{ site.years[0] }}" class="btn btn-primary">Event Page</a></p>-->
   </div>
