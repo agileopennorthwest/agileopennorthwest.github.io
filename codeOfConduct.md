@@ -1,14 +1,12 @@
 ---
 layout: default
 page-class: organization-page
-last-notes-url: http://oamconf2016.blogspot.com/
-theme: Are we putting the HOW before the WHY?
-date: February 8-10, 2017
 
 ---
 
-#Agile Open Northwest Code of Conduct
+{: class="lead"}
 
+#Agile Open Northwest Code of Conduct
 *7 February 2017 version*
 
 Agile Open Northwest supports the open exchange of ideas and freedom of thought and expression. Therefore, we want to create safe 
