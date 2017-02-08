@@ -1,6 +1,7 @@
 ---
 layout: default
 page-class: organization-page
+
 ---
 
 #Agile Open Northwest Code of Conduct
