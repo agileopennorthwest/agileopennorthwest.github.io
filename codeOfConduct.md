@@ -2,6 +2,7 @@
 layout: default
 page-class: organization-page
 ---
+
 #Agile Open Northwest Code of Conduct
 
 *7 February 2017 version*
