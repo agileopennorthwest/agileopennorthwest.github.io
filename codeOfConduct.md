@@ -6,7 +6,7 @@ page-class: organization-page
 
 <h1>Agile Open Northwest Code of Conduct</h1>
 
-7 February 2017 version
+_7 February 2017 version_
 
 Agile Open Northwest supports the open exchange of ideas and freedom of thought and expression. Therefore, we want to create safe 
 spaces, and we do not tolerate harassment of conference participants in any form.
