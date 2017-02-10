@@ -4,7 +4,9 @@ page-class: organization-page
 
 ---
 
-# Agile Open Northwest Code of Conduct
+# Agile Open Northwest 
+
+# Code of Conduct
 
 _7 February 2017 version_
 
@@ -21,7 +23,7 @@ continue to treat fellow community members honorably and with respect.
 
 ---
 
-<h3>What to Do</h3>
+### What to Do
 If you are being harassed, experience unwelcome behavior, or have any other concerns, feel free to contact one of the organizers 
 (see list below). If you see someone else being subjected to unwelcome or disparaging behavior, we ask you to recognize and name it, 
 and contact an organizer. 
@@ -38,7 +40,7 @@ discussion with an organizer about a specific problem at any event or gathering,
 
 ---
 
-<h3>If You Need the Details</h3>
+### If You Need the Details
 Agile Open Northwest dedicates our efforts to providing a safe, harassment-free experience for everyone. Our events create an 
 environment that: 
 
@@ -53,7 +55,7 @@ As a community, we will not endure insults or attacks on the other parties in an
 contribute to the healthy exchange of ideas, and we consider them inappropriate. Sexualized language and imagery have no place in any 
 part of the conference. 
 
-<h3>If You Need More Details</h3>
+### If You Need More Details
 If another participant (whether target or bystander) asks you to stop any unwelcome or harassing behavior, we expect you to comply 
 immediately.
 
