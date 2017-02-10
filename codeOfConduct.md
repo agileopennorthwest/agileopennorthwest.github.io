@@ -4,7 +4,7 @@ page-class: organization-page
 
 ---
 
-<h1>Agile Open Northwest Code of Conduct</h1>
+#Agile Open Northwest Code of Conduct
 
 _7 February 2017 version_
 
