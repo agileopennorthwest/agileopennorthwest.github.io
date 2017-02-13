@@ -1,7 +1,7 @@
 ---
 layout: default
 page-class: organization-page
-last-notes-url: http://oamconf2016.blogspot.com/
+last-notes-url: http://aonw2017.blogspot.com/
 theme: Are we putting the HOW before the WHY?
 date: February 8-10, 2017
 
