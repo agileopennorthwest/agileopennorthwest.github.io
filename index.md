@@ -2,8 +2,8 @@
 layout: default
 page-class: organization-page
 last-notes-url: http://aonw2017.blogspot.com/
-theme: Are we putting the HOW before the WHY?
-date: February 8-10, 2017
+theme: Stories From the Frontier
+date: February 5-7, 2018
 
 ---
 
@@ -14,17 +14,18 @@ date: February 8-10, 2017
   <div class="darken"></div>
   <div class="words">
     <div class="attention big-message">Please Join Us For</div>
-    <div class="event-title">Agile Open Northwest {{ site.years[0] }}</div>
+<!--    <div class="event-title">Agile Open Northwest {{ site.years[0] }}</div> -->
+    <div class="event-title">Agile Open Northwest 2018</div>
     <div class="spacer"> </div>
     <div class="date">{{page.date}}</div>
-    <div>Leftbank Annex</div>
-    <div>101 N Weidler, Portland, OR 97227</div>
+    <div>Seattle Center Exhibition Hall</div>
+<!--    <div>addr2</div>-->
     <div class="spacer"> </div>
-<!--<a href="" target="_blank" class="btn btn-primary">Registration opens November 4, 2016 at 11:04 a.m. Pacific</a> -->
+<a href="" target="_blank" class="btn btn-primary">Registration opens November 6, 2017 - stay tuned for details</a>
 <!--<a href="https://aonw2017.eventbrite.com" target="_blank" class="btn btn-primary">Register Now!</a>-->
 <!--<a href="https://aonw2017.eventbrite.com" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a>-->
-<a href="" class="btn btn-primary">All Finished!</a>
-<a href="/{{ site.years[0] }}">View Event Details</a> 
+<!--<a href="" class="btn btn-primary">All Finished!</a>-->
+<!--<a href="/{{ site.years[0] }}">View Event Details</a>--> 
     <!--<p align="center"><a href="/{{ site.years[0] }}" class="btn btn-primary">Event Page</a></p>-->
   </div>
   <div class="attribution">&copy; 2015 STEVEN SMITH</div>
@@ -46,23 +47,22 @@ date: February 8-10, 2017
   <!--<div class="attribution">&copy; 2015 STEVEN SMITH</div>-->
 <!--</div>-->
 
-<!--<p>Agile Open Northwest is proud to present our 11th Annual AONW conference on {{page.date}} at the Leftbank Annex in Portland. 
+<p>Agile Open Northwest is proud to present our 12th Annual AONW conference on {{page.date}} at the Seattle Center Exhibition Hall. 
 The theme this year is "{{page.theme}}" We are dedicated to a low-cost conference, and are pleased to hold the rate
-to only $280 for the 3-day event. Register using the link above. You can also follow us on
+to only $300 for the 3-day event. Registration will open in November on this page. More conference details will be posted here soon. You can also follow us on
 <a href="http://twitter.com/aonw">Twitter</a> or join our
 <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
- to stay up to date with all the latest info. Check out all the details about the <a href="/2017">2017 conference</a>.
-</p>-->
+ to stay up to date with all the latest info. <!--Check out all the details about the <a href="/2018">2018 conference</a>. -->
+</p>
 
-<div>
-  <p>Thank you to all who attended AONW 2017 in Portland. You can still view <a href="{{ page.last-notes-url }}">session notes</a> or other details 
-  about the <a href="/2017">2017 conference</a>. Our next annual conference will be AONW 2018 in Seattle, WA, to be held in February 2018. Keep
+<!--<div>
+  <p>Our next annual conference will be AONW 2018 in Seattle, WA, to be held in February 2018. Keep
   an eye on this page for further details, or follow us on
   <a href="http://twitter.com/aonw">Twitter</a> or join our
   <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
   to stay up to date with all the latest info.
   </p>
-</div>
+</div>-->
 {: class="lead"}
 
 In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that
@@ -71,6 +71,11 @@ and on <a href="http://twitter.com/aonw">Twitter</a>.
 <!--One of these recently finished! {{ site.last-other-event-fullname }} was 
 a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square in Seattle. You can find more details about the event, including the 
 session notes, [here]({{ site.last-other-event-url }}). -->
+
+----
+  <p>Thank you to all who attended AONW 2017 in Portland. You can still view <a href="{{ page.last-notes-url }}">session notes</a> or other details 
+  about the <a href="/2017">2017 conference</a>. 
+  </p>  
 
 ---
 AONW is an annual conference about agile practices and techniques. Using [Open Space](#about_open_space), the participants themselves
@@ -113,7 +118,7 @@ Help us!
 [volunteer@agileopennorthwest.org](mailto:volunteer@agileopennorthwest.org)
 
 Talk to the 2017 Conference Committee!
-[agile2017@agileopennorthwest.org](mailto:agile2017@agileopennorthwest.org)
+[agile2018@agileopennorthwest.org](mailto:agile2018@agileopennorthwest.org)
 
 Improve this!
 [webmaster@agileopennorthwest.org](mailto:webmaster@agileopennorthwest.org)

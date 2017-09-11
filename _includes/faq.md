@@ -14,12 +14,12 @@ Will there be a record of sessions?
 : We publish simultaneously with the conference an online record of what sessions were held, who participated and what happened in them. The level of detail of this summary is up to the session hosts; at the conference, instructions and assistance will be available so that you can enter session information while it is fresh.
 
 Can we schedule sessions in the evening?
-: We have optional night-owl sessions on the schedule on Wednesday and Thursday evenings. We must leave the facility before closing time... but
+: We have optional night-owl sessions on the schedule in the evenings. We must leave the facility before closing time... but
 wherever it happens is the right place, so you can schedule sessions in other places like coffee shops, restaurants, or bars. Use your imagination. :-)
-We also have early bird sessions at 8:00 am on Thursday and Friday for those who prefer the bright light of morning.
+We also have early bird sessions at 8:00 am for those who prefer the bright light of morning.
 
 Are meals provided?
-: We'll have a continental breakfast and lunches each day, and dinner on Thursday evening. For dinner on Wednesday, there are a number of restaurants within easy walking distance.
+: We'll have a continental breakfast and lunches each day, and one dinner provided at the venue. There are also a number of restaurants within easy walking distance.
 
 Are accommodations available?
 : There are a number of hotels nearby. At the time of this writing, we are working on arranging special rates at nearby hotels. See the [Location](/{{site.years[0]}}#location) section and follow [our tweets](http://twitter.com/aonw) for more info.
