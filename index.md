@@ -21,8 +21,8 @@ date: February 5-7, 2018
     <div>Seattle Center Exhibition Hall</div>
 <!--    <div>addr2</div>-->
     <div class="spacer"> </div>
-<a href="" target="_blank" class="btn btn-primary">Registration opens November 6, 2017 at noon</a>
-<!--<a href="https://aonw2017.eventbrite.com" target="_blank" class="btn btn-primary">Register Now!</a>-->
+<a href="https://www.eventbrite.com/e/agile-open-northwest-2018-registration-39606288475" target="_blank" class="btn btn-primary">Register beginning at noon (PST) today!</a>
+<!--<a href="" target="_blank" class="btn btn-primary">Registration opens November 6, 2017 at noon</a>-->
 <!--<a href="https://aonw2017.eventbrite.com" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a>-->
 <!--<a href="" class="btn btn-primary">All Finished!</a>-->
 <a href="/{{ site.years[0] }}">View Event Details</a>
@@ -49,8 +49,8 @@ date: February 5-7, 2018
 
 <p>Agile Open Northwest is proud to present our 12th Annual AONW conference on {{page.date}} at the Seattle Center Exhibition Hall. 
 The theme this year is "{{page.theme}}" We are dedicated to a low-cost conference, and are pleased to hold the rate
-to only $300 for the 3-day event. Registration will open November 6th at noon on this page. Check out all the details about the <a href="/2018">2018 conference</a>. You can also follow us on
-<a href="http://twitter.com/aonw">Twitter</a> or join our
+to only $300 for the 3-day event. <a href="https://www.eventbrite.com/e/agile-open-northwest-2018-registration-39606288475" target="_blank">Registration</a> opens at noon (PST) today. Check out all the details about the <a href="/2018">2018 conference</a>. 
+You can also follow us on <a href="http://twitter.com/aonw">Twitter</a> or join our
 <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
  to stay up to date with all the latest info. 
 </p>
