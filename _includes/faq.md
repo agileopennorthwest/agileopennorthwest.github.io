@@ -35,3 +35,19 @@ Why did we add a third day?
 
 How do you set the registration price each year?
 : We try to keep the cost of registration as low as we can, so that attendees can pay their own way if they must. Prices for suitable venues and food change every year, and have risen in recent years. We're grateful that our sponsors help keep registration prices low.
+
+Why doesn't AONW offer refunds?
+: In recent years, AONW has sold out, often well in advance of the event.
+We emphasize our no-refunds policy because each year, we receive multiple requests for refunds from registrants who maintain they didn’t know we have such a policy.
+Why do we have the policy? We’re a non-profit with limited financial resources, and we have to pay over $65,000 in fixed and non-refundable expenses, mostly well in advance of when the event occurs.
+Without the money our early registrants provide, AONW would be impossible. The requests for refunds tend to come in the last few weeks before the event, after we've already booked caterers and don't have an ability to adjust...and most those on the waiting list are no longer able to change their plans to attend in the place of someone seeking a refund.
+All this means that we won’t be able to offer a refund or a transfer to another event. You can substitute a different attendee at any time up to the start of the event. See "How do I substitute a different attendee?"
+AONW has for years now had a no-refunds policy. The policy is presented in Eventbrite during the purchase stream, in the email purchase confirmation, and on the electronic or paper registration itself. Having said that, nearly no one notices the policy. We wish we could figure out how to make this even clearer, so we've added notices of the policy even more places, and created this FAQ answer.
+
+How do I substitute a different attendee on my registration?
+: To substitute a different attendee on the Eventbrite site, all you need to do is log in to the Eventbrite account you used to purchase the registration, then change the attendee name, email address, and company name to the new attendee. We'd also appreciate having the new attendee answer all the questions we ask.
+Here's some help on doing that: 
+[howToTransferTickets](https://www.eventbrite.com/support/articles/en_US/Q_A/how-to-transfer-tickets-to-someone-else?lg=en_US).
+There's even a tutorial with pictures that might help make this easy. Forgot your login info? The article helps with that, too!
+What that ends up doing is changing the information that matters for registration - the name on the badge, the survey questions, address, and so on.
+If you're still having trouble, contact AONW Registration [registration@AgileOpenNorthwest.org](mailto:registration@AgileOpenNorthwest.org).
