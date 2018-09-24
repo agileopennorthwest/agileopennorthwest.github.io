@@ -1,10 +1,14 @@
 ---
 layout: default
 page-class: organization-page
-last-notes-url: http://aonw2017.blogspot.com/
-theme: Stories From the Frontier
-date: February 5-7, 2018
-
+last-notes-url: http://aonw2018.blogspot.com/
+theme: Finding Our Agility in the Unheard Voices
+date: February 6-8, 2019
+year: 2019
+prev-year: 2018
+venue: Leftbank Annex
+citystate: Portland, OR
+anniversary: 13th
 ---
 
 <h1 id="about_us">Agile Open Northwest <small></small></h1>
@@ -15,17 +19,19 @@ date: February 5-7, 2018
   <div class="words">
     <div class="attention big-message">Please Join Us For</div>
 <!--    <div class="event-title">Agile Open Northwest {{ site.years[0] }}</div> -->
-    <div class="event-title">Agile Open Northwest 2018</div>
+    <div class="event-title">Agile Open Northwest 2019</div>
     <div class="spacer"> </div>
     <div class="date">{{page.date}}</div>
-    <div>Seattle Center Exhibition Hall</div>
-<!--    <div>addr2</div>-->
+    <div>{{page.venue}}</div>
+    <div>{{page.citystate}}</div>
     <div class="spacer"> </div>
-<a href="https://www.eventbrite.com/e/agile-open-northwest-2018-registration-39606288475" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a>
+<a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens Soon!</a>
+
+<!-- <a href="https://www.eventbrite.com/e/agile-open-northwest-2018-registration-39606288475" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a> -->
 <!--<a href="" target="_blank" class="btn btn-primary">Register now!</a>-->
 <!--<a href="https://aonw2017.eventbrite.com" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a>-->
 <!--<a href="" class="btn btn-primary">All Finished!</a>-->
-<a href="/{{ site.years[0] }}">View Event Details</a>
+<!--<a href="/{{ site.years[0] }}">View Event Details</a>-->
     <!--<p align="center"><a href="/{{ site.years[0] }}" class="btn btn-primary">Event Page</a></p>-->
   </div>
   <div class="attribution">&copy; 2015 STEVEN SMITH</div>
@@ -47,9 +53,10 @@ date: February 5-7, 2018
   <!--<div class="attribution">&copy; 2015 STEVEN SMITH</div>-->
 <!--</div>-->
 
-<p>Agile Open Northwest is proud to present our 12th Annual AONW conference on {{page.date}} at the Seattle Center Exhibition Hall. 
-The theme this year is "{{page.theme}}" We are dedicated to a low-cost conference, and are pleased to hold the rate
-to only $300 for the 3-day event. The event is currently sold out, but you can still <a href="https://www.eventbrite.com/e/agile-open-northwest-2018-registration-39606288475" target="_blank">join the waitlist</a>. Check out all the details about the 2018 conference <a href="/2018">here</a>. 
+<p>Agile Open Northwest is proud to present our {{page.anniversary}} Annual AONW conference on {{page.date}} at the {{page.venue}} in {{page.citystate}}. 
+The theme this year is "{{page.theme}}." We are dedicated to a low-cost conference, and are <!-- pleased to hold the rate to only $300 --> still finalizing this year's rate for the 3-day event. 
+More information will be available shortly, and registration will open on this page soon. Please check back regularly.
+<!--The event is currently sold out, but you can still <a href="https://www.eventbrite.com/e/agile-open-northwest-2018-registration-39606288475" target="_blank">join the waitlist</a>. Check out all the details about the 2018 conference <a href="/2018">here</a>. -->
 You can also follow us on <a href="http://twitter.com/aonw">Twitter</a> or join our
 <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
  to stay up to date with all the latest info. 
@@ -73,8 +80,8 @@ a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square 
 session notes, [here]({{ site.last-other-event-url }}). -->
 
 ----
-  <p>Thank you to all who attended AONW 2017 in Portland. You can still view <a href="{{ page.last-notes-url }}">session notes</a> or other details 
-  about the <a href="/2017">2017 conference</a>. 
+  <p>Thank you to all who attended AONW 2018 in Seattle. You can still view <a href="{{ page.last-notes-url }}">session notes</a> or other details 
+  about the <a href="/{{ page.prev-year }}">{{ page.prev-year }} conference</a>. 
   </p>  
 
 ---
