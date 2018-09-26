@@ -7,6 +7,7 @@ last-other-event-url: /openAgileManagement
 last-other-event-fullname: "Open Agile Management"
 last-other-event-shortname: "Open Agile Management"
 years:
+- 2019
 - 2018
 - 2017
 - 2016
@@ -14,12 +15,10 @@ years:
 - 2014
 
 hosts:
-- name: Diana Larsen
-  img: diana.jpg
+- name: Aki Namioka
+  img: aki.png
   bio: |
-    Diana Larsen served three years as Chair of the Agile Alliance board of directors and served terms as a board member for the group. As a partner in [FutureWorks Consulting](http://futureworksconsulting.com), Diana consults with leaders and teams to create work processes where innovation, inspiration, and imagination flourish. With more than fifteen years of experience working with technical professionals, she brings focus to the human side of organizations, teams, and projects. Diana co-authored *Agile Retrospectives: Making Good Teams Great!* with Esther Derby, *Liftoff: Launching Agile Teams and Projects* with Ainsley Nies, *Virtuosity* with Willem Larsen and writes occasional [blog posts (http://futureworksconsulting.com/blog) and articles.  
-
-    Diana discovers solutions and possibilities where others only find barriers and obstacles.
+    Aki has been an Agile practitioner since 2002 and a Certified Scrum Master since 2010. She specializes in Agile coaching, and has helped several organizations transform into high-functioning Agile teams, using XP, Scrum, and Kanban. Aki's background includes Boeing, IBM Global Services, and Cisco Systems. Aki enjoys learning from others in the Agile community, and is active in BeyondAgile and Agile Open Northwest.
 - name: Ian Savage
   img: ian.png
   bio: |

@@ -124,8 +124,8 @@ Join our
 Help us!
 [volunteer@agileopennorthwest.org](mailto:volunteer@agileopennorthwest.org)
 
-Talk to the 2017 Conference Committee!
-[agile2018@agileopennorthwest.org](mailto:agile2018@agileopennorthwest.org)
+Talk to the 2019 Conference Committee!
+[agile2019@agileopennorthwest.org](mailto:agile2018@agileopennorthwest.org)
 
 Improve this!
 [webmaster@agileopennorthwest.org](mailto:webmaster@agileopennorthwest.org)
