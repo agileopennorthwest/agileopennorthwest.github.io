@@ -25,9 +25,10 @@ anniversary: 13th
     <div>{{page.venue}}</div>
     <div>{{page.citystate}}</div>
     <div class="spacer"> </div>
-<a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens November 11 at 11:11 am!</a>
+<a href="https://www.eventbrite.com/e/agile-open-northwest-2019-registration-50576284027" target="_blank" class="btn btn-primary">Register now!</a>
 
-<!-- <a href="https://www.eventbrite.com/e/agile-open-northwest-2018-registration-39606288475" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a> -->
+<!-- <a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens November 11 at 11:11 am!</a> -->
+<!-- <a href="https://www.eventbrite.com/e/agile-open-northwest-2019-registration-50576284027" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a> -->
 <!--<a href="" target="_blank" class="btn btn-primary">Register now!</a>-->
 <!--<a href="https://aonw2017.eventbrite.com" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a>-->
 <!--<a href="" class="btn btn-primary">All Finished!</a>-->
@@ -54,8 +55,9 @@ anniversary: 13th
 <!--</div>-->
 
 <p>Agile Open Northwest is proud to present our {{page.anniversary}} Annual AONW conference on {{page.date}} at the {{page.venue}} in {{page.citystate}}. 
-The theme this year is "{{page.theme}}." We are dedicated to a low-cost conference, and are <!-- pleased to hold the rate to only $300 --> still finalizing this year's rate for the 3-day event. 
-More information will be available shortly, and registration will open on this page 11/11 at 11:11 am. Please check back regularly.
+The theme this year is "{{page.theme}}." We are dedicated to a low-cost conference, and are pleased to hold the rate to only $295 for the 3-day event. 
+Registration is now open using the button above! Don't forget to check out all the details about <a href="/{{ page.year }}">AONW {{ page.year }}</a>.
+<!-- More information will be available shortly, and registration will open on this page 11/11 at 11:11 am. Please check back regularly. -->
 <!--The event is currently sold out, but you can still <a href="https://www.eventbrite.com/e/agile-open-northwest-2018-registration-39606288475" target="_blank">join the waitlist</a>. Check out all the details about the 2018 conference <a href="/2018">here</a>. -->
 You can also follow us on <a href="http://twitter.com/aonw">Twitter</a> or join our
 <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
