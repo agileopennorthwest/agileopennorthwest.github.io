@@ -27,7 +27,7 @@ reg-url: https://www.eventbrite.com/e/agile-open-northwest-2019-registration-505
     <div>{{page.venue}}</div>
     <div>{{page.citystate}}</div>
     <div class="spacer"> </div>
-<a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a>
+<a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist</a>
 
 <!-- <a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens November 11 at 11:11 am!</a> -->
 <!-- <a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist!</a> -->
