@@ -7,6 +7,7 @@ last-other-event-url: /openAgileManagement
 last-other-event-fullname: "Open Agile Management"
 last-other-event-shortname: "Open Agile Management"
 years:
+- 2020
 - 2019
 - 2018
 - 2017
@@ -41,18 +42,10 @@ hosts:
     For the last decade that’s been my story: facilitator, trainer, coach, mentor, guide, storyteller, provocateur. Happiness for me is working with a team of people who are different from me; together, we serve others better than I could alone. Along the way, I've held all the software roles that begin with "p" and end with "manager." Twice I was a director at a growing startup. My early years were spent technically writing.
 
     I write things at [FeelingAgile.com](http://feelingagile.com). Still available on iTunes is the “The Agile Coach” podcast. @mjt on Twitter is me being short. Invite me and I'll talk, wherever and whenever you like. Agile Open Northwest’s annual Open Space brings me joy. And I find peace sailing the waters north of Seattle.
-- name: Rebecca Wirfs-Brock
-  img: rebecca.jpg
+- name: Nora Beyerle
+  img:
   bio: |
-    I invented the set of design practices known as Responsibility-Driven Design (RDD) and by accident started the x-DD meme. Along the way I authored two popular object design books. I jog (even in the rain). 
-
-    In my work I help people hone their design and architecture skills, address architecture risks, and manage and reduce technical debt. In addition to coaching and personal mentoring, I conduct workshops on Pragmatic TDD, enterprise application design, agile design skills and thinking, being agile about system qualities, and Agile Architecture.
-
-    I am program director of the Agile Alliance's Experience Reports Program and co-chair of the Agile Conference Experience Reports Track. Another interest of mine is patterns. I am on the Board of the Hillside Group and
-    recently I've written patterns about sustainable architecture, agile QA, and adaptive systems architectures. If you are interested in writing about your experiences or sharing your wisdom in pattern form, contact me.
-    I can help you turn your itch for writing into the written word.
-
-    You can read my blog at [www.wirfs-brock.com/blog](http://www.wirfs-brock.com/blog) and find articles and patterns on my [resources page](http://www.wirfs-brock.com/Resources.html).
+    Our newest Board member, Nora just joined in 2019, and we are so happy to have her! Her official bio is coming soon...
 - name: Troy Frever
   img: troy.jpg
   bio: |
