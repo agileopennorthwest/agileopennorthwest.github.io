@@ -19,7 +19,7 @@ wherever it happens is the right place, so you can schedule sessions in other pl
 We also have early bird sessions at 8:00 am for those who prefer the bright light of morning.
 
 Are meals provided?
-: We'll have a continental breakfast and lunches each day, and one dinner provided at the venue. There are also a number of restaurants within easy walking distance.
+: We'll have a continental breakfast and lunches each day at the venue. Occasionally there is a sponsored dinner. There are also a number of restaurants within easy walking distance.
 
 Are accommodations available?
 : There are a number of hotels nearby. At the time of this writing, we are working on arranging special rates at nearby hotels. See the [Location](/{{site.years[0]}}#location) section and follow [our tweets](http://twitter.com/aonw) for more info.
