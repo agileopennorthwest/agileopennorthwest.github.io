@@ -8,7 +8,7 @@ venue: Seattle Center Exhibition Hall
 citystate: Seattle, WA
 anniversary: 14th
 cost: 300
-reg-url: https://www.eventbrite.com/e/agile-open-northwest-2020-registration-50576284027
+reg-url: https://www.eventbrite.com/e/agile-open-northwest-2020-registration-76701063947
 
 last-notes-url: http://aonw2019.blogspot.com/
 prev-year: 2019
