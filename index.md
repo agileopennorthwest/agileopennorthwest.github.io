@@ -22,17 +22,17 @@ prev-city: Portland
   <div class="darken"></div>
   <div class="words">
     <div class="attention big-message">Please Join Us For</div>
-<!--    <div class="event-title">Agile Open Northwest {{ site.years[0] }}</div> -->
-    <div class="event-title">Agile Open Northwest 2020</div>
+    <div class="event-title">Agile Open Northwest {{ site.years[0] }}</div>
     <div class="spacer"> </div>
     <div class="date">{{page.date}}</div>
     <div>{{page.venue}}</div>
     <div>{{page.citystate}}</div>
     <div class="spacer"> </div>
 
-<a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens November 11 at 11:11 am!</a>
+<a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Register now!</a>
 <a href="/{{ site.years[0] }}">View Event Details</a>
-<!--<a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Register now!</a>-->
+
+<!--<a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens November 11 at 11:11 am!</a>-->
 <!--<a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist</a>-->
 <!--<a href="" class="btn btn-primary">All Finished!</a>-->
 
@@ -59,8 +59,8 @@ prev-city: Portland
 <p>Agile Open Northwest is proud to present our {{page.anniversary}} Annual AONW conference on {{page.date}} at the {{page.venue}} in {{page.citystate}}. 
 The theme this year is "{{page.theme}}." We are dedicated to a low-cost conference, and are pleased to hold the rate to only ${{page.cost}} (plus Eventbrite fees) for the 3-day event. 
 
-Registration will open on this page on 11/11 at 11:11 am.
-<!--Registration is now open using the button above! Don't forget to check out all the details about <a href="/{{ page.year }}">AONW {{ page.year }}</a>.-->
+Registration is now open using the button above! Don't forget to check out all the details about <a href="/{{ page.year }}">AONW {{ page.year }}</a>.
+<!--Registration will open on this page on 11/11 at 11:11 am.-->
 <!--More information will be available soon. Please check back regularly.-->
 <!--The event is currently sold out, but you can still <a href="{{ page.reg-url }}" target="_blank">join the waitlist</a>. Check out all the details about the {{ page.year }} conference <a href="/{{ page.year }}">here</a>. -->
 
