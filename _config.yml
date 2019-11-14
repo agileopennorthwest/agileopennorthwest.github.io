@@ -43,13 +43,15 @@ hosts:
 
     I write things at [FeelingAgile.com](http://feelingagile.com). Still available on iTunes is the “The Agile Coach” podcast. @mjt on Twitter is me being short. Invite me and I'll talk, wherever and whenever you like. Agile Open Northwest’s annual Open Space brings me joy. And I find peace sailing the waters north of Seattle.
 - name: Nora Beyerle
-  img:
+  img: nora.jpeg
   bio: |
-    Our newest Board member, Nora just joined in 2019, and we are so happy to have her! Her official bio is coming soon...
+    I journeyed into technology via a music education. Working in the software industry since 2000, I’ve explored responsibilities of business analysis, project management, and people management. It was the agile values and principles that resonated strongest with me, and I have since focused on coaching agile development teams and championing individuals. I appreciate all the learning opportunities within our agile community of practice! I enjoy volunteering at AgilePDX, and now joining Agile Open Northwest. Additionally I am looking forward to further collaborate with Future of Work communities. I believe that people can change the world, and that we can achieve this by being curious, open, and kind.
+
+    I hesitantly tweet at @sunhiltb.
 - name: Troy Frever
   img: troy.jpg
   bio: |
-    Troy Frever discovered XP in 2000, after two decades as a professional software developer. Since then he has been an Extreme Programmer and Coach for a number of companies in the Seattle area, including Smilebox, Aviarc, RealNetworks, and many more. He was recenlty co-founder and CTO of Blok24, and is currently having a grand time as VP of Engineering at Ripl. When he's not writing unit tests or refactoring mercilessly, Troy enjoys backpacking and skiing with his family and playing Ultimate Frisbee. Troy is also a former organizer of the Seattle Extreme Programming Users Group (SXPUG) and a co-founder of Seattle's Beyond Agile user group.
+    Troy Frever discovered XP in 2000, after two decades as a professional software developer. Since then he has been an Extreme Programmer and Coach for a number of companies in the Seattle area, including Smilebox, Aviarc, RealNetworks, and many more. He was recenlty co-founder and CTO of Blok24, and is currently having a grand time as VP of Engineering at LiquidPlanner. When he's not writing unit tests or refactoring mercilessly, Troy enjoys backpacking and skiing with his family and playing Ultimate Frisbee. Troy is also a former organizer of the Seattle Extreme Programming Users Group (SXPUG) and a co-founder of Seattle's Beyond Agile user group.
 
 
 # Color settings (hex-codes without the leading hash-tag)
