@@ -34,12 +34,15 @@ next-year: 2022
     <div>{{page.venue}}</div>
     <div>{{page.citystate}}</div>
     <div class="spacer"> </div>
+    
+    <a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens Today at 11:16 am!</a>
 
-<!--<a href="" class="btn btn-primary">All Finished!</a>-->
-<a href="" class="btn btn-primary">Registration Opens Soon - Please Check Back!</a>
-<!--<a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Register now!</a>-->
-<!--<a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens November 11 at 11:16 am!</a>-->
-<!--<a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist</a>-->
+<!--
+    <a href="" class="btn btn-primary">All Finished!</a>
+    <a href="" class="btn btn-primary">Registration Opens Soon - Please Check Back!</a>
+    <a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Register now!</a>
+    <a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist</a>
+-->
 
    {% if site.show-upcoming-year %}
      <a href="/{{ site.years[0] }}">View Event Details</a>
@@ -84,10 +87,14 @@ for all our old friends, and for those new to AONW.
 -->
 
 <p>
-<!--Registration is now open using the button above! Don't forget to check out all the details about <a href="/{{ page.year }}">AONW {{ page.year }}</a>.-->
-<!--Registration will open on this page on 11/16 at 11:16 am.-->
+Registration will open on this page on 11/16 at 11:16 am.
+<!--
+Registration is now open using the button above! Don't forget to check out all the details about <a href="/{{ page.year }}">AONW {{ page.year }}</a>.
+
 More information will be available soon. Please check back regularly.
-<!--The event is currently sold out, but you can still <a href="{{ page.reg-url }}" target="_blank">join the waitlist</a>. Check out all the details about the {{ page.year }} conference <a href="/{{ page.year }}">here</a>. -->
+
+The event is currently sold out, but you can still <a href="{{ page.reg-url }}" target="_blank">join the waitlist</a>. Check out all the details about the {{ page.year }} conference <a href="/{{ page.year }}">here</a>.
+-->
 </p>
 
 <p>You can also follow us on <a href="http://twitter.com/aonw">Twitter</a> or join our
