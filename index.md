@@ -10,11 +10,12 @@ venue: AONW 2021 will be 100% virtual!
 citystate: 
 anniversary: 15th
 cost: 59
-#reg-url: https://www.eventbrite.com/e/agile-open-northwest-2021-registration-126733030907
+reg-url: https://www.eventbrite.com/e/agile-open-northwest-2021-registration-126733030907
 
 last-notes-url: http://aonw2020.blogspot.com/
 prev-year: 2020
 prev-city: Seattle
+attendees: 250
 
 next-year: 2022
 
@@ -35,12 +36,12 @@ next-year: 2022
     <div>{{page.citystate}}</div>
     <div class="spacer"> </div>
     
-    <a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens Today at 11:16 am!</a>
+   <a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Register now!</a>
 
 <!--
+    <a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens Today at 11:16 am!</a>
     <a href="" class="btn btn-primary">All Finished!</a>
     <a href="" class="btn btn-primary">Registration Opens Soon - Please Check Back!</a>
-    <a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Register now!</a>
     <a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist</a>
 -->
 
@@ -87,10 +88,10 @@ for all our old friends, and for those new to AONW.
 -->
 
 <p>
-Registration will open on this page on 11/16 at 11:16 am.
-<!--
 Registration is now open using the button above! Don't forget to check out all the details about <a href="/{{ page.year }}">AONW {{ page.year }}</a>.
+<!--
 
+Registration will open on this page on 11/16 at 11:16 am.
 More information will be available soon. Please check back regularly.
 
 The event is currently sold out, but you can still <a href="{{ page.reg-url }}" target="_blank">join the waitlist</a>. Check out all the details about the {{ page.year }} conference <a href="/{{ page.year }}">here</a>.
@@ -115,7 +116,7 @@ The event is currently sold out, but you can still <a href="{{ page.reg-url }}" 
 ---
 AONW is an annual conference about agile practices and techniques. Using [Open Space](#about_open_space), the participants themselves
 make the conference they want to attend. Come prepared to share your latest ideas, challenges, hopes, experiences and experiments! Inclusive but intimate,
-Agile Open Northwest is limited to less than 300 participants.
+Agile Open Northwest is limited to less than {{ page.attendees }} participants.
 
 <div class="faces-5">
   <img src="/img/faces/a.jpg" alt="" class="face" />
