@@ -18,6 +18,8 @@ Can we schedule sessions in the evening?
 wherever it happens is the right place, so you can schedule sessions in other places like coffee shops, restaurants, or bars. Use your imagination. :-)
 We also have early bird sessions at 8:00 am for those who prefer the bright light of morning.
 
+{% if !page.virtual-conference %}
+
 Are meals provided?
 : We'll have a continental breakfast and lunches each day at the venue. Occasionally there is a sponsored dinner. There are also a number of restaurants within easy walking distance.
 
@@ -29,6 +31,8 @@ What equipment is provided for the sessions?
 
 Will we have Internet access?
 : Yes, wireless Internet access will be available.
+
+{% endif %}
 
 Why did we add a third day?
 : The first half-dozen AONW two-day conferences were packed with sessions and filled to the limit. Your hosts felt that adding a third day would be a chance to broaden the community. It turns out that when you have *two* nights to sleep on something, the magic really begins to happen the third day...and so we expect new sessions to be added that morning that grow out of what happened the first two days. Past attendees can tell you that some of the most interesting discoveries happen during dinner, and now there are two opportunities for that. And lastly, we've found having a retrospective on the conference afterwards provides us with the best ideas for next year...and now you can join us in contributing to that learning.

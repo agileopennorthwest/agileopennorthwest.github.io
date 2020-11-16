@@ -45,7 +45,9 @@
     {% if site.next-other-event-url %}
       <li><a href="{{ site.next-other-event-url }}">{{ site.next-other-event-shortname }}</a></li>
     {% endif %}
-    <li><a href="/{{ site.years[0] }}">{{ site.years[0] }} Conference</a></li>
+    {% if site.show-upcoming-year %}
+      <li><a href="/{{ site.years[0] }}">{{ site.years[0] }} Conference</a></li>
+    {% endif %}
     <li><a href="/{{ site.years[1] }}">{{ site.years[1] }} Conference</a></li>
   {% endif %}
 </ul>
@@ -56,7 +58,9 @@
   </button>
   <ul class="dropdown-menu">
     {% for year in site.years %}
-      <li><a href="/{{ year }}">{{ year }} Conference</a></li>
+      {% if year != site.years[0] or site.show-upcoming-year %}
+        <li><a href="/{{ year }}">{{ year }} Conference</a></li>
+      {% endif %}
     {% endfor %}
     <li><a href="/2013">2013 Conference</a></li>
     <li><a href="/2012">2012 Conference</a></li>

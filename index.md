@@ -1,20 +1,22 @@
 ---
 layout: default
 page-class: organization-page
-theme: Finding Agreement
-date: February 3-5, 2020
-year: 2020
-venue: Seattle Center Exhibition Hall
-citystate: Seattle, WA
-anniversary: 14th
-cost: 300
-reg-url: https://www.eventbrite.com/e/agile-open-northwest-2020-registration-76701063947
+virtual-conference: false
+theme: How to Dance on Uncertain Ground
+date: February 22-24, 2021
+date-modifier: (4 hours each day)
+year: 2021
+venue: AONW 2021 will be 100% virtual!
+citystate: 
+anniversary: 15th
+cost: 59
+reg-url: https://www.eventbrite.com/e/agile-open-northwest-2021-registration-126733030907
 
 last-notes-url: http://aonw2020.blogspot.com/
 prev-year: 2020
 prev-city: Seattle
 
-next-year: 2021
+next-year: 2022
 
 ---
 
@@ -24,8 +26,8 @@ next-year: 2021
   <img src="/img/circle.jpg" class="background"/>
   <div class="darken"></div>
   <div class="words">
-    <div class="attention big-message">We Hope You Enjoyed</div>
-    <!--<div class="attention big-message">Please Join Us For</div>-->
+    <!--<div class="attention big-message">We Hope You Enjoyed</div>-->
+    <div class="attention big-message">Please Join Us For</div>
     <div class="event-title">Agile Open Northwest {{ site.years[0] }}</div>
     <div class="spacer"> </div>
     <div class="date">{{page.date}}</div>
@@ -33,13 +35,15 @@ next-year: 2021
     <div>{{page.citystate}}</div>
     <div class="spacer"> </div>
 
-<a href="" class="btn btn-primary">All Finished!</a>
-<a href="/{{ site.years[0] }}">View Event Details</a>
-
+<!--<a href="" class="btn btn-primary">All Finished!</a>-->
+<a href="" class="btn btn-primary">Registration Opens Soon - Please Check Back!</a>
 <!--<a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Register now!</a>-->
-<!--<a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens November 11 at 11:11 am!</a>-->
+<!--<a href="" target="_blank" class="btn btn-primary">Stay Tuned - Registration Opens November 11 at 11:16 am!</a>-->
 <!--<a href="{{ page.reg-url }}" target="_blank" class="btn btn-primary">Registration full - click here to join the Waitlist</a>-->
 
+   {% if site.show-upcoming-year %}
+     <a href="/{{ site.years[0] }}">View Event Details</a>
+   {% endif %}
   </div>
   <div class="attribution">&copy; 2015 STEVEN SMITH</div>
 </div>
@@ -60,21 +64,31 @@ next-year: 2021
   <!--<div class="attribution">&copy; 2015 STEVEN SMITH</div>-->
 <!--</div>-->
 
-<!--
-<p>Agile Open Northwest is proud to present our {{page.anniversary}} Annual AONW conference on {{page.date}} at the {{page.venue}} in {{page.citystate}}. 
-The theme this year is "{{page.theme}}." We are dedicated to a low-cost conference, and are pleased to hold the rate to only ${{page.cost}} (plus Eventbrite fees) for the 3-day event. 
+<p>Agile Open Northwest is proud to present our {{page.anniversary}} Annual AONW conference 
+on {{page.date}} {{page.date-modifier}}<!--at the {{page.venue}} in {{page.citystate}}-->. 
+The theme this year is "{{page.theme}}." We are dedicated to a low-cost conference, and are pleased to hold the rate to only 
+${{page.cost}} (plus Eventbrite fees) for the 3-day event. 
 </p>
--->
+<p>
+This will be a virtual Open Space event, held over the course of 3 days, lasting 4 hours each day. Over the last several months, there's 
+been a great blossoming of tools and techniques 
+for online events. We are excited to bring together the best of the best to make this an inclusive, engaging, and valuable event 
+for all our old friends, and for those new to AONW.
+</p>
 
+<!--
 <p>Thank you to all who attended AONW {{ page.prev-year }} in {{ page.prev-city }}. You can still view the <a href="{{ page.last-notes-url }}">session notes</a> or other details 
  about the <a href="/{{ page.prev-year }}">{{ page.prev-year }} conference</a>. More information about AONW {{page.next-year}}
  will be posted here when it is available.
 </p>  
+-->
 
+<p>
 <!--Registration is now open using the button above! Don't forget to check out all the details about <a href="/{{ page.year }}">AONW {{ page.year }}</a>.-->
-<!--Registration will open on this page on 11/11 at 11:11 am.-->
-<!--More information will be available soon. Please check back regularly.-->
+<!--Registration will open on this page on 11/16 at 11:16 am.-->
+More information will be available soon. Please check back regularly.
 <!--The event is currently sold out, but you can still <a href="{{ page.reg-url }}" target="_blank">join the waitlist</a>. Check out all the details about the {{ page.year }} conference <a href="/{{ page.year }}">here</a>. -->
+</p>
 
 <p>You can also follow us on <a href="http://twitter.com/aonw">Twitter</a> or join our
 <a href="mailto:info@AgileOpenNorthwest.org?subject=Please%20add%20me%20to%20the%20AONW%20interest%20list&amp;body=Please%20add%20my%20email%20address%20to%20the%20AONW%20interest%20list!">email interest list</a>
@@ -140,7 +154,7 @@ Join our
 Help us!
 [volunteer@agileopennorthwest.org](mailto:volunteer@agileopennorthwest.org)
 
-Talk to the 2020 Conference Committee!
+Talk to the {{page.year}} Conference Committee!
 [agile2020@agileopennorthwest.org](mailto:agile2020@agileopennorthwest.org)
 
 Improve this!
