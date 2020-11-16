@@ -6,7 +6,7 @@ email: info@agileopennorthwest.com
 last-other-event-url: /openAgileManagement
 last-other-event-fullname: "Open Agile Management"
 last-other-event-shortname: "Open Agile Management"
-show-upcoming-year: false
+show-upcoming-year: true
 years:
 - 2021
 - 2020

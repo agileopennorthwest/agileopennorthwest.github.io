@@ -1,7 +1,7 @@
 ---
 layout: default
 page-class: organization-page
-virtual-conference: false
+virtual-conference: true
 theme: How to Dance on Uncertain Ground
 date: February 22-24, 2021
 date-modifier: (4 hours each day)
@@ -10,7 +10,7 @@ venue: AONW 2021 will be 100% virtual!
 citystate: 
 anniversary: 15th
 cost: 59
-reg-url: https://www.eventbrite.com/e/agile-open-northwest-2021-registration-126733030907
+#reg-url: https://www.eventbrite.com/e/agile-open-northwest-2021-registration-126733030907
 
 last-notes-url: http://aonw2020.blogspot.com/
 prev-year: 2020
