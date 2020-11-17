@@ -10,7 +10,14 @@
       <div class="modal-body">
         <p> Sponsorship of Agile Open Northwest helps the agile development movement in the Pacific Northwest, while giving your company visibility as an agile leader. </p>
         <p> Agile Open Northwest sponsorships are available at the following levels: </p>
-        
+
+        {% if page.virtual-conference==true %}
+        <h5> $500 or more </h5>
+        <p> Your logo will be displayed on our website and you receive two complimentary registrations. You will receive dedicated virtual space to connect with attendees and gather contact information, public recognition of your support to the entire audience, and participation in the end-of-event social time with lotteries and giveaways. </p>
+
+        <h5> $250 </h5>
+        <p> Your logo will be displayed on our website and you receive one complimentary registration, as well as dedicated virtual space.</p>
+        {% else %}
         <h5> $3000 or more </h5>
         <p> Your logo will be displayed on our website and you receive three complimentary registrations. You will receive a full table for vendor materials, as well as public recognition of your support to the entire audience. </p>
 
@@ -19,9 +26,10 @@
 
         <h5> $1000 </h5>
         <p> Your logo will be displayed on our website and you receive one complimentary registration. </p>
-      
+
         <h5> Facility Sponorships </h5>
         <p> Sponsor the evening dinner, conference wi-fi, or graphics recorder. </p>
+        {% endif %}
 
         <h4>Contact Us</h4>
         <p> Please contact us at <a href="mailto:sponsor@agileopennorthwest.org">sponsor@agileopennorthwest.org</a> for more information about sponsoring. </p>
