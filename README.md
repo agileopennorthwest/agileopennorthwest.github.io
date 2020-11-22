@@ -7,7 +7,7 @@ Helpful links
 -------------
 
   [Markdown syntax](http://kramdown.gettalong.org/quickref.html)
-  [Jekyll]
+  [Jekyll](https://jekyllrb.com/)
   
 
 Local setup
@@ -27,9 +27,3 @@ Run locally
 
   The website runs locally at http://0.0.0.0:4000/
 
-Update attendees list
----------------------
-
-```
-make grab-attendees
-```
