@@ -6,8 +6,9 @@ Bringing agile to the northwest
 Helpful links
 -------------
 
-  [Markdown syntax](http://kramdown.gettalong.org/quickref.html)
-  [Jekyll](https://jekyllrb.com/)
+[Markdown syntax](http://kramdown.gettalong.org/quickref.html)
+
+[Jekyll](https://jekyllrb.com/)
   
 
 Local setup
