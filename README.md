@@ -36,5 +36,5 @@ Run locally
   make serve
 ```
 
-  The website runs locally at http://0.0.0.0:4000/
+  The website runs locally at http://127.0.0.1:4000
 
