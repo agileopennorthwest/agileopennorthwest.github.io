@@ -9,14 +9,22 @@ Helpful links
 [Markdown syntax](http://kramdown.gettalong.org/quickref.html)
 
 [Jekyll](https://jekyllrb.com/)
+
+[project wiki](https://github.com/agileopennorthwest/agileopennorthwest.github.io/wiki)
   
 
 Local setup
 -----------
 
+If you don't even have Ruby installed, see the full instructions for setting up a development environment 
+on our wiki at [Development Environment](https://github.com/agileopennorthwest/agileopennorthwest.github.io/wiki/Development-Environment).
+If you already have the correct version of Ruby installed (check the Gemfile for the version) then you can probably just 
+get away with:
+ 
 ```
   bundle
   sudo npm install -g less
+  npm install -g less-plugin-clean-css
 ```
 
 Run locally
