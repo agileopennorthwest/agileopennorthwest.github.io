@@ -11,6 +11,8 @@ Helpful links
 [Jekyll](https://jekyllrb.com/)
 
 [project wiki](https://github.com/agileopennorthwest/agileopennorthwest.github.io/wiki)
+
+[Github Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/getting-started-with-github-pages)
   
 
 Local setup
