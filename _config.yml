@@ -1,5 +1,7 @@
 title: Agile Open Northwest
 email: info@agileopennorthwest.com
+logo: /img/logo.png
+description: Agile Open Northwest is a non-profit alliance of agile practitioners in the US Pacific Northwest region. We present an annual Open Space conference about agile practices and techniques, and also promote and sponsor other Agile and Open Space events in the Pacific Northwest.
 #next-other-event-url: /openAgileManagement
 #next-other-event-fullname: "Open Agile Management"
 #next-other-event-shortname: "Open Agile Management"
@@ -84,3 +86,6 @@ markdown: kramdown
 permalink: pretty
 
 exclude: [bin, less, Gemfile, Gemfile.lock, makefile, README.md]
+
+plugins:
+- jekyll-seo-tag
