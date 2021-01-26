@@ -1,6 +1,7 @@
 ---
 layout: default
 page-class: organization-page
+image: /img/circle.jpg
 virtual-conference: true
 theme: How to Dance on Uncertain Ground
 date: February 22-24, 2021
