@@ -11,12 +11,12 @@ venue: AONW 2021 will be 100% virtual!
 citystate: 
 anniversary: 15th
 cost: 59
+attendees: 250
 reg-url: https://www.eventbrite.com/e/agile-open-northwest-2021-registration-126733030907
 
 last-notes-url: http://aonw2020.blogspot.com/
 prev-year: 2020
 prev-city: Seattle
-attendees: 250
 
 next-year: 2022
 
@@ -164,7 +164,7 @@ Help us!
 [volunteer@agileopennorthwest.org](mailto:volunteer@agileopennorthwest.org)
 
 Talk to the {{page.year}} Conference Committee!
-[agile2020@agileopennorthwest.org](mailto:agile2020@agileopennorthwest.org)
+[aonw@agileopennorthwest.org](mailto:aonw@agileopennorthwest.org)
 
 Improve this!
 [webmaster@agileopennorthwest.org](mailto:webmaster@agileopennorthwest.org)
