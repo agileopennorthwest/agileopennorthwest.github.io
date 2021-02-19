@@ -36,8 +36,10 @@
         <li><a class="slow" href="#sponsors">Sponsors</a></li>
         <li><a class="slow" href="#hosts">Hosts</a></li>
         <li><a class="slow" href="#attendees">Attendees</a></li>
-        {% if page.notes-url %}
-          <li><a href="{{ page.notes-url }}">Session Notes</a></li>
+        {% if page.notes-section %}
+          <li><a class="slow" href="#notes">Session Notes</a></li>
+        {% else if page.notes-url %}
+          <li><a href="{{ page.notes-url }}" target="_blank">Session Notes</a></li>
         {% endif %}
       </ul>
     </li>
