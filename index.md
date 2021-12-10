@@ -3,23 +3,24 @@ layout: default
 page-class: organization-page
 image: /img/circle.jpg
 virtual-conference: true
-theme: How to Dance on Uncertain Ground
-date: February 22-24, 2021
+theme: Agile is Art
+date: March 28-30, 2022
 date-modifier: (4 hours each day)
-year: 2021
-venue: AONW 2021 was 100% virtual!
+year: 2022
+venue: AONW 2022 will be 100% virtual!
 citystate: 
-anniversary: 15th
-cost: 59
+anniversary: 16th
+cost: 60
 attendees: 250
-reg-url: https://www.eventbrite.com/e/agile-open-northwest-2021-registration-126733030907
-conf-status: finished # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
+reg-url: https://buytickets.at/agileopennorthwest/610747
+reg-service: TicketTailor # one of: Eventbrite TicketTailor
+conf-status: reg_open # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
 
 last-notes-url: https://drive.google.com/drive/folders/1TzpST9NK_bWaYOG3h3N5R6TcZ76Tcr5q?usp=sharing
 prev-year: 2021
 prev-city: Seattle
 
-next-year: 2022
+next-year: 2023
 
 ---
 
@@ -81,10 +82,10 @@ next-year: 2022
 <p>Agile Open Northwest is proud to present our {{page.anniversary}} Annual AONW conference 
 on {{page.date}} {{page.date-modifier}}<!--at the {{page.venue}} in {{page.citystate}}-->. 
 The theme this year is "{{page.theme}}." We are dedicated to a low-cost conference, and are pleased to hold the rate to only 
-${{page.cost}} (plus Eventbrite fees) for the 3-day event. 
+${{page.cost}} (plus {{page.reg-service}} fees) for the 3-day event. 
 </p>
 <p>
-This will be a virtual Open Space event, held over the course of 3 days, lasting 4 hours each day. Over the last several months, there's 
+This will be a virtual Open Space event, held over the course of 3 days, lasting 4 hours each day. Over the last year there has 
 been a great blossoming of tools and techniques 
 for online events. We are excited to bring together the best of the best to make this an inclusive, engaging, and valuable event 
 for all our old friends, and for those new to AONW.
