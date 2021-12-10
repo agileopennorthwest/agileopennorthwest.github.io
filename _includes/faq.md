@@ -49,9 +49,13 @@ All this means that we won’t be able to offer a refund or a transfer to anothe
 AONW has for years now had a no-refunds policy. The policy is presented in Eventbrite during the purchase stream, in the email purchase confirmation, and on the electronic or paper registration itself. Having said that, nearly no one notices the policy. We wish we could figure out how to make this even clearer, so we've added notices of the policy even more places, and created this FAQ answer.
 
 How do I substitute a different attendee on my registration?
+: For help with this, please contact AONW Registration [registration@AgileOpenNorthwest.org](mailto:registration@AgileOpenNorthwest.org).
+
+<!--
 : To substitute a different attendee on the Eventbrite site, all you need to do is log in to the Eventbrite account you used to purchase the registration, then change the attendee name, email address, and company name to the new attendee. We'd also appreciate having the new attendee answer all the questions we ask.
 Here's some help on doing that: 
 [howToTransferTickets](https://www.eventbrite.com/support/articles/en_US/Q_A/how-to-transfer-tickets-to-someone-else?lg=en_US).
 There's even a tutorial with pictures that might help make this easy. Forgot your login info? The article helps with that, too!
 What that ends up doing is changing the information that matters for registration - the name on the badge, the survey questions, address, and so on.
 If you're still having trouble, contact AONW Registration [registration@AgileOpenNorthwest.org](mailto:registration@AgileOpenNorthwest.org).
+-->
