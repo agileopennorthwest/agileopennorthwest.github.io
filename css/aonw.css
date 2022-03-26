@@ -6587,7 +6587,11 @@ footer .footer-content {
   }
   .logo-and-content .logo img {
     width: 200px;
+    object-fit: contain;
     margin-left: -210px;
+  }
+  .logo-and-content .sponsor img {
+    max-height: 200px;
   }
   hr.section {
     margin: 60px 0;
