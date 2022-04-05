@@ -7,17 +7,17 @@ theme: Agile is Art
 date: March 28-30, 2022
 date-modifier: (4 hours each day)
 year: 2022
-venue: AONW 2022 will be 100% virtual!
+venue: AONW 2022 was 100% virtual!
 citystate: 
 anniversary: 16th
 cost: 60
 attendees: 250
 reg-url: https://buytickets.at/agileopennorthwest/610747
 reg-service: TicketTailor # one of: Eventbrite TicketTailor
-conf-status: reg_open # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
+conf-status: finished # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
 
-last-notes-url: https://drive.google.com/drive/folders/1TzpST9NK_bWaYOG3h3N5R6TcZ76Tcr5q?usp=sharing
-prev-year: 2021
+last-notes-url: 2022/2022_Agile_Open_Northwest_complete_miro_board.pdf
+prev-year: 2022
 prev-city: Seattle
 
 next-year: 2023
