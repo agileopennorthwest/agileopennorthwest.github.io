@@ -16,7 +16,7 @@ reg-url: https://buytickets.at/agileopennorthwest/610747
 reg-service: TicketTailor # one of: Eventbrite TicketTailor
 conf-status: finished # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
 
-last-notes-url: https://drive.google.com/drive/folders/1TzpST9NK_bWaYOG3h3N5R6TcZ76Tcr5q?usp=sharing
+last-notes-url: 2022/2022_Agile_Open_Northwest_complete_miro_board.pdf
 prev-year: 2022
 prev-city: Seattle
 
