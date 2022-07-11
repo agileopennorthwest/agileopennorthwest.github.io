@@ -2,19 +2,20 @@
 layout: default
 page-class: organization-page
 image: /img/circle.jpg
-virtual-conference: true
-theme: Agile is Art
-date: March 28-30, 2022
-date-modifier: (4 hours each day)
+virtual-conference: false
+title: Agile Open Camp # was Agile Open Northwest
+theme: Agile Open Takes Flight
+date: September 9th, 2022
+date-modifier: 
 year: 2022
-venue: AONW 2022 was 100% virtual!
-citystate: 
-anniversary: 16th
+venue: Warren G Magnuson Park - Hangar 30
+citystate: Seattle, WA
+anniversary: 1st
 cost: 60
 attendees: 250
 reg-url: https://buytickets.at/agileopennorthwest/610747
 reg-service: TicketTailor # one of: Eventbrite TicketTailor
-conf-status: finished # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
+conf-status: coming_soon # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
 
 last-notes-url: 2022/2022_Agile_Open_Northwest_complete_miro_board.pdf
 prev-year: 2022
@@ -35,7 +36,7 @@ next-year: 2023
   {% else %}
     <div class="attention big-message">Please Join Us For</div>
   {% endif %}
-    <div class="event-title">Agile Open Northwest {{ site.years[0] }}</div>
+    <div class="event-title">{{ page.title }} {{ page.year }}</div>
     <div class="spacer"> </div>
     <div class="date">{{page.date}}</div>
     <div>{{page.venue}}</div>
@@ -79,6 +80,7 @@ next-year: 2023
 <!--</div>-->
 
 {% if page.conf-status != 'finished' %}
+{% if page.virtual-conference %}
 <p>Agile Open Northwest is proud to present our {{page.anniversary}} Annual AONW conference 
 on {{page.date}} {{page.date-modifier}}<!--at the {{page.venue}} in {{page.citystate}}-->. 
 The theme this year is "{{page.theme}}." We are dedicated to a low-cost conference, and are pleased to hold the rate to only 
@@ -90,6 +92,23 @@ been a great blossoming of tools and techniques
 for online events. We are excited to bring together the best of the best to make this an inclusive, engaging, and valuable event 
 for all our old friends, and for those new to AONW.
 </p>
+{% else %}
+<p>
+Agile Open Northwest is excited to present our New Agile Open Camp 1-day event on September 9th, 2022 – our first live event since 2020! 
+Agile Open Camp 2022 is for all collaborative agile practitioners and learners, including developers, testers, designers, managers, 
+product owners, and more. Our conference provides a place to have conversations, share stories, and explore new ideas. Working with specific 
+strategies to encourage and direct participation, groups have successfully self-organized around complex problems, held meetings, and published 
+results. 
+</p>
+<p>
+Keep in mind that in early 2023 we will again hold our 3-day virtual event.  We are looking to expand to 2 events a year!
+</p>
+<p>
+Due to ongoing concerns around COVID-19, we have found a very large space to hold our event, Hangar 30 at Magnuson Park in Seattle.  We will be 
+opening the doors on both sides to allow full airflow to minimize Covid risks, weather dependent.    It holds roughly 1300 people and we will be 
+inviting just a 125-150 or so attendees.
+</p>
+{% endif %}
 {% endif %}
 
 {% if page.conf-status == 'finished' %}
@@ -144,10 +163,12 @@ Agile Open Northwest is limited to less than {{ page.attendees }} participants.
   <img src="/img/faces/e.jpg" alt="" class="face" />
 </div>
 
+<!--
 ----
 In addition to hosting our annual February conference about agile practices and techniques, Agile Open Northwest sponsors and hosts other events that
 focus on agile topics, use Open Space, and occur in the Northwest United States. As soon as the next one is scheduled we will announce it here,
 and on <a href="http://twitter.com/aonw">Twitter</a>.
+-->
 <!--One of these recently finished! {{ site.last-other-event-fullname }} was 
 a one-day event held on Friday, September 16th, 2016 at the AXIS Pioneer Square in Seattle. You can find more details about the event, including the 
 session notes, [here]({{ site.last-other-event-url }}). 
