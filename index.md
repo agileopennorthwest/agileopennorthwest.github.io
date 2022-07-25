@@ -13,9 +13,9 @@ citystate: Seattle, WA
 anniversary: 1st
 cost: 60
 attendees: 250
-reg-url: https://buytickets.at/agileopennorthwest/610747
+reg-url: https://buytickets.at/agileopennorthwest/733879
 reg-service: TicketTailor # one of: Eventbrite TicketTailor
-conf-status: coming_soon # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
+conf-status: reg_open # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
 
 last-notes-url: 2022/2022_Agile_Open_Northwest_complete_miro_board.pdf
 prev-year: 2022
@@ -122,7 +122,10 @@ will be posted here when it is available.
 
 <p>
 {% if page.conf-status == 'reg_open' %}
-Registration is now open using the button above! Don't forget to check out all the details about <a href="/{{ page.year }}">AONW {{ page.year }}</a>.
+Registration is now open using the button above! 
+{% if page.conf-page %}
+Don't forget to check out all the details about <a href="/{{ page.conf-page }}">AONW {{ page.year }}</a>.
+{% endif %}
 {% endif %}
 
 <!--
