@@ -2,20 +2,20 @@
 layout: default
 page-class: organization-page
 image: /img/circle.jpg
-virtual-conference: true
-title: Agile Open Northwest
-theme: Re-fresh
-date: Wed, March 29th - Fri, Mar 31st, 2023
+virtual-conference: false
+title: Agile Open Camp # was Agile Open Northwest
+theme: Agile Open Takes Flight
+date: September 9th, 2022
 date-modifier: 
-year: 2023
-venue: 
-citystate: 
-anniversary: 17th
+year: 2022
+venue: Warren G Magnuson Park - Hangar 30
+citystate: Seattle, WA
+anniversary: 1st
 cost: 60
 attendees: 250
-reg-url: # https://buytickets.at/agileopennorthwest/733879
+reg-url: https://buytickets.at/agileopennorthwest/733879
 reg-service: TicketTailor # one of: Eventbrite TicketTailor
-conf-status: coming_soon # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
+conf-status: reg_open # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
 
 last-notes-url: 2022/2022_Agile_Open_Northwest_complete_miro_board.pdf
 prev-year: 2022
@@ -38,16 +38,9 @@ next-year: 2023
   {% endif %}
     <div class="event-title">{{ page.title }} {{ page.year }}</div>
     <div class="spacer"> </div>
-    <div class="big-message">{{ page.theme }}</div>
     <div class="date">{{page.date}}</div>
-
-{% if page.virtual-conference %}
-    <div>This will be an all virtual conference!</div>
-    <div class="spacer"> </div>
-{% else %}
     <div>{{page.venue}}</div>
     <div>{{page.citystate}}</div>
-{% endif %}
     <div class="spacer"> </div>
 
 {% case page.conf-status %}
