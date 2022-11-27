@@ -13,12 +13,13 @@ Can I add a session after the Opening?
 Will there be a record of sessions?
 : We publish simultaneously with the conference an online record of what sessions were held, who participated and what happened in them. The level of detail of this summary is up to the session hosts; at the conference, instructions and assistance will be available so that you can enter session information while it is fresh.
 
+
+{% if page.virtual-conference == false %}
+
 Can we schedule sessions in the evening?
 : We have optional night-owl sessions on the schedule in the evenings. We must leave the facility before closing time... but
 wherever it happens is the right place, so you can schedule sessions in other places like coffee shops, restaurants, or bars. Use your imagination. :-)
 We also have early bird sessions at 8:00 am for those who prefer the bright light of morning.
-
-{% if page.virtual-conference == false %}
 
 Are meals provided?
 : We'll have a continental breakfast and lunches each day at the venue. Occasionally there is a sponsored dinner. There are also a number of restaurants within easy walking distance.
@@ -33,9 +34,6 @@ Will we have Internet access?
 : Yes, wireless Internet access will be available.
 
 {% endif %}
-
-Why did we add a third day?
-: The first half-dozen AONW two-day conferences were packed with sessions and filled to the limit. Your hosts felt that adding a third day would be a chance to broaden the community. It turns out that when you have *two* nights to sleep on something, the magic really begins to happen the third day...and so we expect new sessions to be added that morning that grow out of what happened the first two days. Past attendees can tell you that some of the most interesting discoveries happen during dinner, and now there are two opportunities for that. And lastly, we've found having a retrospective on the conference afterwards provides us with the best ideas for next year...and now you can join us in contributing to that learning.
 
 How do you set the registration price each year?
 : We try to keep the cost of registration as low as we can, so that attendees can pay their own way if they must. Prices for suitable venues and food change every year, and have risen in recent years. We're grateful that our sponsors help keep registration prices low.
