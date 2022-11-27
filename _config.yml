@@ -8,7 +8,7 @@ description: Agile Open Northwest is a non-profit alliance of agile practitioner
 last-other-event-url: /openAgileManagement
 last-other-event-fullname: "Open Agile Management"
 last-other-event-shortname: "Open Agile Management"
-show-upcoming-year: false
+show-upcoming-year: true
 years:
 - 2023
 - 2022

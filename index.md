@@ -6,7 +6,7 @@ virtual-conference: true
 title: Agile Open Northwest
 theme: Re-fresh
 date: Wed, March 29th - Fri, Mar 31st, 2023
-date-modifier: 
+date-modifier: " (4 hours each day)"
 year: 2023
 venue: 
 citystate: 
