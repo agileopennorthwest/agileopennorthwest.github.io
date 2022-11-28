@@ -35,7 +35,9 @@
         <li><a class="slow" href="#location">Location</a></li>
         <li><a class="slow" href="#sponsors">Sponsors</a></li>
         <li><a class="slow" href="#hosts">Hosts</a></li>
+        {% unless page.hide-attendees %}
         <li><a class="slow" href="#attendees">Attendees</a></li>
+        {% endunless %}
         {% if page.notes-section %}
           <li><a class="slow" href="#notes">Session Notes</a></li>
         {% else if page.notes-url %}
