@@ -1,6 +1,8 @@
 {% for host in include.hosts %}
   <div class="logo-and-content">
+    {% if host.img %}
     <div class="logo"><img src='/img/hosts/{{ host.img }}'></div>
+    {% endif %}
     <h3>{{ host.name }}</h3>
     {{ host.bio | markdownify }}
   </div>
