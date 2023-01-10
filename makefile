@@ -14,6 +14,9 @@ generate-css:
 watch:
 	fswatch -o less/* | xargs -n1 -I{} make generate-css
 
-serve: generate-css
+bundle:
+	bundle install
+
+serve: bundle generate-css
 	jekyll serve --watch
 	# python -m SimpleHTTPServer
