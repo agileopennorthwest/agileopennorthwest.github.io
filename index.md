@@ -13,9 +13,9 @@ citystate:
 anniversary: 17th
 cost: 60
 attendees: 250
-reg-url: # https://buytickets.at/agileopennorthwest/733879
+reg-url: https://www.tickettailor.com/events/agileopennorthwest/814018
 reg-service: TicketTailor # one of: Eventbrite TicketTailor
-conf-status: coming_soon # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
+conf-status: reg_open # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
 
 last-notes-url: 2022/2022_Agile_Open_Northwest_complete_miro_board.pdf
 prev-year: 2022
