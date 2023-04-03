@@ -17,7 +17,7 @@ reg-url: https://www.tickettailor.com/events/agileopennorthwest/814018
 reg-service: TicketTailor # one of: Eventbrite TicketTailor
 conf-status: finished # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
 
-last-notes-url: 2022/2022_Agile_Open_Northwest_complete_miro_board.pdf
+last-notes-url: 2023/AONW_2023_Proceedings.pdf
 prev-year: 2023
 prev-city: Seattle
 
