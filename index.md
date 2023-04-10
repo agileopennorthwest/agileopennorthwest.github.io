@@ -18,6 +18,7 @@ reg-service: TicketTailor # one of: Eventbrite TicketTailor
 conf-status: finished # one of: coming_soon, reg_starting_on, reg_open, waitlist, finished
 
 last-notes-url: 2023/AONW_2023_Proceedings.pdf
+last-graphic-recording-url: 2023/AONW_2023_Graphic_Recording.pdf
 prev-year: 2023
 prev-city: Seattle
 
@@ -121,8 +122,9 @@ inviting just a 125-150 or so attendees.
 {% if page.conf-status == 'finished' %}
 <p>Thank you to all who attended AONW {{ page.prev-year }}
 {% if page.virtual-conference %}, completely virtual and online{% else %}in {{ page.prev-city }}{% endif %}. 
-You can still view the <a href="{{ page.last-notes-url }}" target="_blank">session notes</a> or other details 
-about the <a href="/{{ page.prev-year }}">{{ page.prev-year }} conference</a>. More information about AONW {{page.next-year}}
+You can still view the <a href="{{ page.last-notes-url }}" target="_blank">session notes</a> and 
+<a href="{{ page.last-graphic-recording-url }}" target="_blank">graphic recording</a>,
+or see the full conference page for the <a href="/{{ page.prev-year }}">{{ page.prev-year }} conference</a>. More information about AONW {{page.next-year}}
 will be posted here when it is available.
 </p>  
 {% endif %}
